@@ -3,7 +3,7 @@
 	<head>
 		<title>Irinan ilopilkku</title>
 		<meta charset="utf-8">
-		<meta name="description" content="Irinan Ilopilkku hieronta palvelu yritys">
+		<meta name="description" content="Irinan Ilopilkku hieronta palvelu yritys . Hermoratahierontaa ( opiskelijatyönä ), klassista hierontaa sekä kotikuntoutusta : yksilöllistä liikunnanohjausta toimintakyvyn ylläpitämiseksi ja kohentamiseksi. Palvelut tarjolla Konginkankaan Reimarin Tuvan hoitohuoneella, kotonani Liimattalantiellä tai kotikäynteinä .">
 		<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
 		<!-- icon -->
 		<link rel="icon" href="img/icon_irina.png" type="image/x-icon" />
@@ -19,13 +19,12 @@
 			<div id="dl-menu" class="dl-menuwrapper">
 				<button class="dl-trigger">Open Menu</button>
 				<ul class="dl-menu">
-					<!-- <li><a href="#about">About</a></li> -->
 					<li><a href="#intro">Etusivu</a></li>
-					<!-- <li><a href="#intro">Home</a></li> -->
 					<li><a href="#about">Tietoa minusta</a></li>
-					<li><a href="#services">Services</a></li>
-					<li><a href="#works">Works</a></li>
-					<li><a href="#contact">Contact</a></li>
+					<li><a href="#services">Palvelut</a></li>
+					<!-- <li><a href="#works">Works</a></li> -->
+					<li><a href="#contact">Yhteystiedot</a></li>
+					<!--
 					<li>
 						<a href="#">Sub Menu</a>
 						<ul class="dl-submenu">
@@ -33,6 +32,7 @@
 							<li><a href="#">Sub menu</a></li>
 						</ul>
 					</li>
+					-->
 				</ul>
 			</div><!-- /dl-menuwrapper -->
 		</div>
@@ -62,12 +62,18 @@
 					<div class="col-md-offset-2 col-md-8">
 						<div class="section-heading">
 							<h2>Tietoa minusta</h2>
-							<!-- <p>We’ve been building unique digital products, platforms, and experiences for the past 6 years.</p> -->
 							<p>Tarjoamme hieronta palveluja.</p>
 						</div>
 					</div>
 				</div>
 				<div class="row">
+					<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+						<div class="box-team wow bounceInDown" data-wow-delay="0.1s">
+							<h4>Irina Kraft</h4>
+							<p>Yrittäjä / Hieroja</p>
+						</div>
+					</div>
+					<!--
 					<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
 						<div class="box-team wow bounceInDown" data-wow-delay="0.1s">
 							<img src="img/team/1.jpg" alt="" class="img-responsive" />
@@ -96,6 +102,7 @@
 							<p>Typographer</p>
 						</div>
 					</div>
+					-->
 				</div>
 			</div>
 		</section>
@@ -106,8 +113,8 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div class="color-light">
-							<h2 class="wow bounceInDown" data-wow-delay="1s">Details are the key for perfection</h2>
-							<p class="lead wow bounceInUp" data-wow-delay="2s">We mix all detailed things together</p>
+							<h2 class="wow bounceInDown" data-wow-delay="1s">Sivusto on keskeneräinen</h2>
+							<p class="lead wow bounceInUp" data-wow-delay="2s">Lisää tietoa tulossa, kun päivitämme sivustoa</p>
 						</div>
 					</div>
 				</div>
@@ -120,12 +127,34 @@
 				<div class="row">
 					<div class="col-md-offset-2 col-md-8">
 						<div class="section-heading">
-						<h2>Services</h2>
-						<p>Est te congue scaevola comprehensam. No pri simul decore, in partem electram voluptatibus vel esse facer.</p>
+							<h2>Palvelut</h2>
+							<p>Palvelut tarjolla Konginkankaan Reimarin Tuvan hoitohuoneella, kotonani Liimattalantiellä tai kotikäynteinä.</p>
 						</div>
 					</div>
 				</div>
 				<div class="row">
+					<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+						<div class="service-box wow bounceInDown" data-wow-delay="0.1s">
+							<i class="fa fa-code fa-4x"></i>
+							<h4>Hermoratahierontaa</h4>
+							<p>(opiskelijatyönä)</p>
+						</div>
+					</div>
+					<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3" data-wow-delay="0.3s">
+						<div class="service-box wow bounceInDown" data-wow-delay="0.1s">
+							<i class="fa fa-cog fa-4x"></i>
+							<h4>Klassista hierontaa</h4>
+							<p></p>
+						</div>
+					</div>
+					<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3" data-wow-delay="0.3s">
+						<div class="service-box wow bounceInDown" data-wow-delay="0.1s">
+							<i class="fa fa-cog fa-4x"></i>
+							<h4>Kotikuntoutusta</h4>
+							<p>Yksilöllistä liikunnanohjausta toimintakyvyn ylläpitämiseksi ja kohentamiseksi.</p>
+						</div>
+					</div>
+					<!--
 					<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
 						<div class="service-box wow bounceInDown" data-wow-delay="0.1s">
 							<i class="fa fa-code fa-4x"></i>
@@ -158,11 +187,13 @@
 							<a class="btn btn-primary">Learn more</a>
 						</div>
 					</div>
+					-->
 				</div>
 			</div>
 		</section>
 		
 		<!-- Works -->
+		<!--
 		<section id="works" class="home-section bg-gray">
 			<div class="container">
 				<div class="row">
@@ -293,8 +324,10 @@
 				</div>
 			</div>
 		</section>
+		-->
 
 		<!-- spacer 2 -->
+		<!--
 		<section id="spacer2" class="home-section spacer">
 			<div class="container">
 				<div class="row">
@@ -307,6 +340,7 @@
 				</div>
 			</div>
 		</section>
+		-->
 
 		<!-- Contact -->
 		<section id="contact" class="home-section bg-white">
@@ -314,13 +348,20 @@
 				<div class="row">
 					<div class="col-md-offset-2 col-md-8">
 						<div class="section-heading">
-							<h2>Contact us</h2>
-							<p>Contact via form below and we will be get in touch with you within 24 hours. </p>
+							<h2>Yhteystiedot</h2>
+							<p>
+								Käyntiosoite
+								Liimattalantie 771 B, 44420 Liimattala
+
+								Puhelinnumero
+								040 415 91 75
+							</p>
 						</div>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-md-offset-1 col-md-10">
+						<!--
 						<form class="form-horizontal" role="form">
 							<div class="form-group">
 								<div class="col-md-offset-2 col-md-8">
@@ -348,10 +389,12 @@
 								</div>
 							</div>
 						</form>
+						-->
 					</div>
 				</div>
 				<div class="row mar-top30 ">
 					<div class="col-md-offset-2 col-md-8">
+						<!--
 						<h5>We're on social networks</h5>
 						<ul class="social-network">
 							<li><a href="#">
@@ -379,6 +422,7 @@
 								</span></a>
 							</li>
 						</ul>
+						-->
 					</div>
 				</div>
 			</div>

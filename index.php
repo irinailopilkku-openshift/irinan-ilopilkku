@@ -58,6 +58,7 @@
 		<!-- About -->
 		<section id="about" class="home-section bg-white">
 			<div class="container">
+				<!-- Guide: http://getbootstrap.com/css/ -->
 				<div class="row">
 					<div class="col-md-offset-2 col-md-8">
 						<div class="section-heading">
@@ -67,7 +68,8 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+			<!--	<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3"> -->
+					<div class="col-xs-12 col-sm-offset-4 col-sm-4 col-md-offset-4 col-md-4 col-lg-offset-4 col-lg-4">
 						<div class="box-team wow bounceInDown" data-wow-delay="0.1s">
 							<h4>Irina Kraft</h4>
 							<p>Yrittäjä / Hieroja</p>
@@ -133,21 +135,24 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+					<!-- <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3"> -->
+					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 						<div class="service-box wow bounceInDown" data-wow-delay="0.1s">
 							<i class="fa fa-code fa-4x"></i>
 							<h4>Hermoratahierontaa</h4>
 							<p>(opiskelijatyönä)</p>
 						</div>
 					</div>
-					<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3" data-wow-delay="0.3s">
+					<!-- <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3" data-wow-delay="0.3s"> -->
+					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4" data-wow-delay="0.3s">
 						<div class="service-box wow bounceInDown" data-wow-delay="0.1s">
 							<i class="fa fa-cog fa-4x"></i>
 							<h4>Klassista hierontaa</h4>
 							<p></p>
 						</div>
 					</div>
-					<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3" data-wow-delay="0.3s">
+					<!-- <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3" data-wow-delay="0.3s"> -->
+					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4" data-wow-delay="0.3s">
 						<div class="service-box wow bounceInDown" data-wow-delay="0.1s">
 							<i class="fa fa-cog fa-4x"></i>
 							<h4>Kotikuntoutusta</h4>
@@ -327,20 +332,20 @@
 		-->
 
 		<!-- spacer 2 -->
-		<!--
 		<section id="spacer2" class="home-section spacer">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
 						<div class="color-light">
-						<h2 class="wow bounceInDown" data-wow-delay="1s">Details are the key for perfection</h2>
-						<p class="lead wow bounceInUp" data-wow-delay="2s">We mix all detailed things together</p>
+							<!--
+							<h2 class="wow bounceInDown" data-wow-delay="1s">Details are the key for perfection</h2>
+							<p class="lead wow bounceInUp" data-wow-delay="2s">We mix all detailed things together</p>
+							-->
 						</div>
 					</div>
 				</div>
 			</div>
 		</section>
-		-->
 
 		<!-- Contact -->
 		<section id="contact" class="home-section bg-white">
@@ -350,11 +355,11 @@
 						<div class="section-heading">
 							<h2>Yhteystiedot</h2>
 							<p>
-								Käyntiosoite
-								Liimattalantie 771 B, 44420 Liimattala
-
-								Puhelinnumero
-								040 415 91 75
+								Käyntiosoite<br>
+								Liimattalantie 771 B, 44420 Liimattala<br>
+								<br>
+								Puhelinnumero<br>
+								040 415 91 75<br>
 							</p>
 						</div>
 					</div>

@@ -155,7 +155,7 @@
 					<!-- <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3" data-wow-delay="0.3s"> -->
 					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4" data-wow-delay="0.3s">
 						<div class="service-box wow bounceInDown" data-wow-delay="0.1s">
-							<i class="fa fa-paw fa-4x"></i>
+							<i class="fa fa-home fa-4x"></i>
 							<h4>Kotikuntoutusta</h4>
 							<p>Yksilöllistä liikunnanohjausta toimintakyvyn ylläpitämiseksi ja kohentamiseksi.</p>
 						</div>

@@ -134,11 +134,12 @@
 						</div>
 					</div>
 				</div>
+				<!-- fa icons are listed here : http://fontawesome.io/icons/ -->
 				<div class="row">
 					<!-- <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3"> -->
 					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 						<div class="service-box wow bounceInDown" data-wow-delay="0.1s">
-							<i class="fa fa-code fa-4x"></i>
+							<i class="fa fa-star-half-o fa-4x"></i>
 							<h4>Hermoratahierontaa</h4>
 							<p>(opiskelijatyönä)</p>
 						</div>
@@ -146,7 +147,7 @@
 					<!-- <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3" data-wow-delay="0.3s"> -->
 					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4" data-wow-delay="0.3s">
 						<div class="service-box wow bounceInDown" data-wow-delay="0.1s">
-							<i class="fa fa-cog fa-4x"></i>
+							<i class="fa fa-star fa-4x"></i>
 							<h4>Klassista hierontaa</h4>
 							<p></p>
 						</div>
@@ -154,7 +155,7 @@
 					<!-- <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3" data-wow-delay="0.3s"> -->
 					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4" data-wow-delay="0.3s">
 						<div class="service-box wow bounceInDown" data-wow-delay="0.1s">
-							<i class="fa fa-cog fa-4x"></i>
+							<i class="fa fa-bed fa-4x"></i>
 							<h4>Kotikuntoutusta</h4>
 							<p>Yksilöllistä liikunnanohjausta toimintakyvyn ylläpitämiseksi ja kohentamiseksi.</p>
 						</div>

@@ -115,8 +115,10 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div class="color-light">
+							<!--
 							<h2 class="wow bounceInDown" data-wow-delay="1s">Sivusto on keskeneräinen</h2>
 							<p class="lead wow bounceInUp" data-wow-delay="2s">Lisää tietoa tulossa, kun päivitämme sivustoa</p>
+							-->
 						</div>
 					</div>
 				</div>

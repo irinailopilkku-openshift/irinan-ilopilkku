@@ -170,11 +170,13 @@ Home sections
 Spacer
 ============================= */
 
-#spacer1{	
-	background-image: url(../img/spacer/1.jpg);
+#spacer1{
+	/*background-image: url(../img/spacer/1.jpg);*/
+	background-image: url(../img/view/relaxation-684716_1920.jpg);
 }
 #spacer2{	
-	background-image: url(../img/spacer/2.jpg);
+	/*background-image: url(../img/spacer/2.jpg);*/
+	background-image: url(../img/view/massage-389716_1920.jpg);
 }
 
 

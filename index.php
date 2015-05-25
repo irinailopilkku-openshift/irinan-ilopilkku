@@ -151,6 +151,7 @@
 							<i class="fa fa-star fa-4x"></i>
 							<h4>Klassista hierontaa</h4>
 							<p></p>
+							<a class="btn btn-primary" href="klassinen_hieronta.php">Lisää tietoa</a>
 						</div>
 					</div>
 					<!-- <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3" data-wow-delay="0.3s"> -->

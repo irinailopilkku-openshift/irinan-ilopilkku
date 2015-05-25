@@ -370,7 +370,7 @@
 						<!--
 						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1829.9478065999808!2d25.830559200000014!3d62.69968629999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4685acda359d1529%3A0x4f4e0beb128c9a97!2sLiimattalantie+771!5e0!3m2!1sfi!2sfi!4v1432546992599" width="600" height="450" frameborder="0" style="border:0"></iframe><br>
 						-->
-						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1829.948877108334!2d25.831841!3d62.69966900000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNjLCsDQxJzU4LjgiTiAyNcKwNDknNTQuNiJF!5e0!3m2!1sfi!2sfi!4v1432547292009" height="450" frameborder="0" style="border:0"></iframe>
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1829.948877108334!2d25.831841!3d62.69966900000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNjLCsDQxJzU4LjgiTiAyNcKwNDknNTQuNiJF!5e0!3m2!1sfi!2sfi!4v1432547292009" width="inherit" height="450" frameborder="0" style="border:0"></iframe>
 						<!--
 						<form class="form-horizontal" role="form">
 							<div class="form-group">

@@ -14,7 +14,8 @@ body{
 	margin:0;
 	padding:0;
 	text-align: center;
-	font-family: 'Open Sans', sans-serif;
+	/*font-family: 'Open Sans', sans-serif;*/
+	font-family: 'Brush Script MT', cursive;
 	font-size: 14px;
 	line-height: 1.6em;
 	
@@ -43,7 +44,8 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 	color: #3a3a3a;
 	font-weight: 700;
 	margin-bottom: 20px;
-	font-family: 'Montserrat', sans-serif;
+	/*font-family: 'Montserrat', sans-serif;*/
+	font-family: 'Brush Script MT', cursive;
 }
 
 
@@ -183,7 +185,8 @@ Intro
 #intro{
     height:635px;
     width:100%;
-    background-color: #529abb;
+    /*background-color: #529abb;*/
+    background-color: #c87ea2;
     /*background-image: url(../img/bg-mac.png);*/
     /*background-image: url(../img/tall-grass-with-seeds.svg);*/
     background-position:center;

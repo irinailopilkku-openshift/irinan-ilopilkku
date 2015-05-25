@@ -156,7 +156,8 @@
 				$( '#dl-menu' ).dlmenu();
 				$('ul.dl-menu li a').smoothScroll();
 
-				$( '#dl-menu' ).openMenu;
+				// $( '#dl-menu' ).openMenu;
+				$('#dl-menu').dlmenu("openMenu");
 
 				//animation
 				// new WOW().init();

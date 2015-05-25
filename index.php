@@ -22,8 +22,9 @@
 					<li><a href="#intro">Etusivu</a></li>
 					<li><a href="#about">Tietoa minusta</a></li>
 					<li><a href="#services">Palvelut</a></li>
-					<!-- <li><a href="#works">Works</a></li> -->
 					<li><a href="#contact">Yhteystiedot</a></li>
+					<!-- <li><a href="#works">Works</a></li> -->
+					<li><a href="#works">Kuvia</a></li>
 					<!--
 					<li>
 						<a href="#">Sub Menu</a>
@@ -199,22 +200,144 @@
 				</div>
 			</div>
 		</section>
-		
+
+		<!-- spacer 2 -->
+		<section id="spacer2" class="home-section spacer">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="color-light">
+							<!--
+							<h2 class="wow bounceInDown" data-wow-delay="1s">Details are the key for perfection</h2>
+							<p class="lead wow bounceInUp" data-wow-delay="2s">We mix all detailed things together</p>
+							-->
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<!-- Contact -->
+		<section id="contact" class="home-section bg-white">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-offset-2 col-md-8">
+						<div class="section-heading">
+							<h2>Yhteystiedot</h2>
+							<p>
+								Käyntiosoite<br>
+								Liimattalantie 771 B, 44420 Liimattala<br>
+								<br>
+								Puhelinnumero<br>
+								040 415 91 75<br>
+							</p>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-offset-1 col-md-10">
+						<!--
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1829.9478065999808!2d25.830559200000014!3d62.69968629999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4685acda359d1529%3A0x4f4e0beb128c9a97!2sLiimattalantie+771!5e0!3m2!1sfi!2sfi!4v1432546992599" width="600" height="450" frameborder="0" style="border:0"></iframe><br>
+						-->
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1829.948877108334!2d25.831841!3d62.69966900000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNjLCsDQxJzU4LjgiTiAyNcKwNDknNTQuNiJF!5e0!3m2!1sfi!2sfi!4v1432547292009" style="width: inherit;" height="450" frameborder="0" style="border:0"></iframe>
+						<!--
+						<form class="form-horizontal" role="form">
+							<div class="form-group">
+								<div class="col-md-offset-2 col-md-8">
+									<input type="text" class="form-control" id="inputName" placeholder="Name">
+								</div>
+							</div>
+							<div class="form-group">
+								<div class="col-md-offset-2 col-md-8">
+									<input type="email" class="form-control" id="inputEmail" placeholder="Email">
+								</div>
+							</div>
+							<div class="form-group">
+								<div class="col-md-offset-2 col-md-8">
+									<input type="text" class="form-control" id="inputSubject" placeholder="Subject">
+								</div>
+							</div>
+							<div class="form-group">
+								<div class="col-md-offset-2 col-md-8">
+									<textarea name="message" class="form-control" rows="3" placeholder="Message"></textarea>
+								</div>
+							</div>
+							<div class="form-group">
+								<div class="col-md-offset-2 col-md-8">
+									<button type="button" class="btn btn-theme btn-lg btn-block">Send message</button>
+								</div>
+							</div>
+						</form>
+						-->
+					</div>
+				</div>
+				<div class="row mar-top30 ">
+					<div class="col-md-offset-2 col-md-8">
+						<!--
+						<h5>We're on social networks</h5>
+						<ul class="social-network">
+							<li><a href="#">
+								<span class="fa-stack fa-2x">
+									<i class="fa fa-circle fa-stack-2x"></i>
+									<i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+								</span></a>
+							</li>
+							<li><a href="#">
+								<span class="fa-stack fa-2x">
+									<i class="fa fa-circle fa-stack-2x"></i>
+									<i class="fa fa-dribbble fa-stack-1x fa-inverse"></i>
+								</span></a>
+							</li>
+							<li><a href="#">
+								<span class="fa-stack fa-2x">
+									<i class="fa fa-circle fa-stack-2x"></i>
+									<i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+								</span></a>
+							</li>
+							<li><a href="#">
+								<span class="fa-stack fa-2x">
+									<i class="fa fa-circle fa-stack-2x"></i>
+									<i class="fa fa-pinterest fa-stack-1x fa-inverse"></i>
+								</span></a>
+							</li>
+						</ul>
+						-->
+					</div>
+				</div>
+			</div>
+		</section>
+
 		<!-- Works -->
-		<!--
 		<section id="works" class="home-section bg-gray">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-2 col-md-8">
 						<div class="section-heading">
-							<h2>Works</h2>
+							<h2>Kuvia</h2>
+							<!--
 							<p>Dicunt tamquam dissentiet vix ex, ne mei dico reformidans, accumsan gloriatur necessitatibus eu sit.</p>
+							-->
 						</div>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-md-offset-2 col-md-8">
 						<ul class="lb-album">
+							<li>
+								<a href="#image-1">
+									<img src="img/view/thumbs/irina_talo.png" alt="">
+									<span>+</span>
+								</a>
+								<div class="lb-overlay" id="image-1">
+									<a href="#page" class="lb-close">X</a>
+									<img src="img/view/irina_talo.jpg" alt="" />
+									<div>
+										<h3>Sleek <span>/Design/</h3>
+										<p>Lorem ipsum dolor sit amet, ut decore iracundia urbanitas sit.</p>
+									</div>
+								</div>
+							</li>
+							<!--
 							<li>
 								<a href="#image-1">
 									<img src="img/works/thumbs/1.jpg" alt="">
@@ -327,114 +450,8 @@
 									</div>
 								</div>
 							</li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</section>
-		-->
-
-		<!-- spacer 2 -->
-		<section id="spacer2" class="home-section spacer">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
-						<div class="color-light">
-							<!--
-							<h2 class="wow bounceInDown" data-wow-delay="1s">Details are the key for perfection</h2>
-							<p class="lead wow bounceInUp" data-wow-delay="2s">We mix all detailed things together</p>
 							-->
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-
-		<!-- Contact -->
-		<section id="contact" class="home-section bg-white">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-offset-2 col-md-8">
-						<div class="section-heading">
-							<h2>Yhteystiedot</h2>
-							<p>
-								Käyntiosoite<br>
-								Liimattalantie 771 B, 44420 Liimattala<br>
-								<br>
-								Puhelinnumero<br>
-								040 415 91 75<br>
-							</p>
-						</div>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-offset-1 col-md-10">
-						<!--
-						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1829.9478065999808!2d25.830559200000014!3d62.69968629999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4685acda359d1529%3A0x4f4e0beb128c9a97!2sLiimattalantie+771!5e0!3m2!1sfi!2sfi!4v1432546992599" width="600" height="450" frameborder="0" style="border:0"></iframe><br>
-						-->
-						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1829.948877108334!2d25.831841!3d62.69966900000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNjLCsDQxJzU4LjgiTiAyNcKwNDknNTQuNiJF!5e0!3m2!1sfi!2sfi!4v1432547292009" style="width: inherit;" height="450" frameborder="0" style="border:0"></iframe>
-						<!--
-						<form class="form-horizontal" role="form">
-							<div class="form-group">
-								<div class="col-md-offset-2 col-md-8">
-									<input type="text" class="form-control" id="inputName" placeholder="Name">
-								</div>
-							</div>
-							<div class="form-group">
-								<div class="col-md-offset-2 col-md-8">
-									<input type="email" class="form-control" id="inputEmail" placeholder="Email">
-								</div>
-							</div>
-							<div class="form-group">
-								<div class="col-md-offset-2 col-md-8">
-									<input type="text" class="form-control" id="inputSubject" placeholder="Subject">
-								</div>
-							</div>
-							<div class="form-group">
-								<div class="col-md-offset-2 col-md-8">
-									<textarea name="message" class="form-control" rows="3" placeholder="Message"></textarea>
-								</div>
-							</div>
-							<div class="form-group">
-								<div class="col-md-offset-2 col-md-8">
-									<button type="button" class="btn btn-theme btn-lg btn-block">Send message</button>
-								</div>
-							</div>
-						</form>
-						-->
-					</div>
-				</div>
-				<div class="row mar-top30 ">
-					<div class="col-md-offset-2 col-md-8">
-						<!--
-						<h5>We're on social networks</h5>
-						<ul class="social-network">
-							<li><a href="#">
-								<span class="fa-stack fa-2x">
-									<i class="fa fa-circle fa-stack-2x"></i>
-									<i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-								</span></a>
-							</li>
-							<li><a href="#">
-								<span class="fa-stack fa-2x">
-									<i class="fa fa-circle fa-stack-2x"></i>
-									<i class="fa fa-dribbble fa-stack-1x fa-inverse"></i>
-								</span></a>
-							</li>
-							<li><a href="#">
-								<span class="fa-stack fa-2x">
-									<i class="fa fa-circle fa-stack-2x"></i>
-									<i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-								</span></a>
-							</li>
-							<li><a href="#">
-								<span class="fa-stack fa-2x">
-									<i class="fa fa-circle fa-stack-2x"></i>
-									<i class="fa fa-pinterest fa-stack-1x fa-inverse"></i>
-								</span></a>
-							</li>
 						</ul>
-						-->
 					</div>
 				</div>
 			</div>

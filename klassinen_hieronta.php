@@ -28,7 +28,7 @@
 					<li>
 						<a href="#">Sivut</a>
 						<ul class="dl-submenu">
-							<li><a href="klassinen_hieronta.php">Klassinen Hieronta#about</a></li>
+							<li><a href="klassinen_hieronta.php#about">Klassinen Hieronta#about</a></li>
 							<!-- <li><a href="#">Sub menu</a></li> -->
 						</ul>
 					</li>
@@ -150,6 +150,17 @@
 		<script src="js/jquery.smooth-scroll.min.js"></script>
 		<script src="js/jquery.dlmenu.js"></script>
 		<script src="js/wow.min.js"></script>
-		<script src="js/custom.js"></script>
+		<script>
+			(function ($) {
+				$( '#dl-menu' ).dlmenu();
+				$( '#dl-menu' ).openMenu();
+				$('ul.dl-menu li a').smoothScroll();
+
+
+				//animation
+				// new WOW().init();
+
+			})(jQuery);
+		</script>
 	</body>
 </html>

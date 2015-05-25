@@ -28,7 +28,7 @@
 					<li>
 						<a href="#">Sivut</a>
 						<ul class="dl-submenu">
-							<li><a href="klassinen_hieronta.php">Klassinen Hieronta</a></li>
+							<li><a href="klassinen_hieronta.php#about">Klassinen Hieronta</a></li>
 							<!-- <li><a href="#">Sub menu</a></li> -->
 						</ul>
 					</li>

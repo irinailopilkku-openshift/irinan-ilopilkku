@@ -19,16 +19,16 @@
 			<div id="dl-menu" class="dl-menuwrapper">
 				<button class="dl-trigger">Open Menu</button>
 				<ul class="dl-menu">
-					<li><a href="index.php#intro">Etusivu</a></li>
-					<li><a href="index.php#about">Tietoa minusta</a></li>
-					<li><a href="index.php#services">Palvelut</a></li>
-					<li><a href="index.php#contact">Yhteystiedot</a></li>
+					<li><a href="index.php">Etusivu</a></li>
+					<li><a href="index.php">Tietoa minusta</a></li>
+					<li><a href="index.php">Palvelut</a></li>
+					<li><a href="index.php">Yhteystiedot</a></li>
 					<!-- <li><a href="#works">Works</a></li> -->
-					<li><a href="index.php#works">Kuvia</a></li>
+					<li><a href="index.php">Kuvia</a></li>
 					<li>
 						<a href="#">Sivut</a>
 						<ul class="dl-submenu">
-							<li><a href="klassinen_hieronta.php#about">Klassinen Hieronta#about</a></li>
+							<li><a href="klassinen_hieronta.php">Klassinen Hieronta</a></li>
 							<!-- <li><a href="#">Sub menu</a></li> -->
 						</ul>
 					</li>
@@ -50,8 +50,8 @@
 					</div>
 				</div>
 				<div class="row">
-					<!-- <div class="col-xs-12  col-sm-12 col-md-12 col-lg-12"> -->
-					<div class="col-xs-8  col-sm-8 col-md-8 col-lg-8">
+					<!-- <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12"> -->
+					<div class="col-xs-12 col-sm-offset-2 col-sm-8 col-md-offset-2 col-md-8 col-lg-offset-2 col-lg-8">
 						<div class="box-team">
 							<h4>Mitä klassinen hieronta on?</h4>
 							<p>Klassinen hieronta on hyvin perinteinen kehoon ja mieleen vaikuttava hoitomuoto. Hieronta on käsin tehtyä pehmeisiin kudoksiin kohdistuvaa muokkausta. Rytmisillä ja liikkuvilla otteilla kudoksia painaen ja venyttäen pyritään parantamaan kudosten toimintoja. Hierontaa tehdään öljyä apuna käyttäen paljaalle iholle.</p>

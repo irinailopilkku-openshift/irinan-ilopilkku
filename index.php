@@ -25,15 +25,13 @@
 					<li><a href="#contact">Yhteystiedot</a></li>
 					<!-- <li><a href="#works">Works</a></li> -->
 					<li><a href="#works">Kuvia</a></li>
-					<!--
 					<li>
-						<a href="#">Sub Menu</a>
+						<a href="#">Sivut</a>
 						<ul class="dl-submenu">
-							<li><a href="#">Sub menu</a></li>
-							<li><a href="#">Sub menu</a></li>
+							<li><a href="klassinen_hieronta.php">Klassinen Hieronta</a></li>
+							<!-- <li><a href="#">Sub menu</a></li> -->
 						</ul>
 					</li>
-					-->
 				</ul>
 			</div><!-- /dl-menuwrapper -->
 		</div>

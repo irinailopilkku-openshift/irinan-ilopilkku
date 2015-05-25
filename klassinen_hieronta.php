@@ -154,9 +154,9 @@
 		<script>
 			(function ($) {
 				$( '#dl-menu' ).dlmenu();
-				$( '#dl-menu' ).openMenu;
 				$('ul.dl-menu li a').smoothScroll();
 
+				$( '#dl-menu' ).openMenu;
 
 				//animation
 				// new WOW().init();

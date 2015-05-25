@@ -57,16 +57,13 @@
 							<p>Klassinen hieronta on hyvin perinteinen kehoon ja mieleen vaikuttava hoitomuoto. Hieronta on käsin tehtyä pehmeisiin kudoksiin kohdistuvaa muokkausta. Rytmisillä ja liikkuvilla otteilla kudoksia painaen ja venyttäen pyritään parantamaan kudosten toimintoja. Hierontaa tehdään öljyä apuna käyttäen paljaalle iholle.</p>
 
 							<h4>Hieronnan vaikutukset</h4>
-							<p>Hieronnan vaikutukset ovat moninaiset. Se vilkastuttaa verenkiertoa, jolloin hapen ja ravinteiden sekä kuona-aineiden kulku vilkasuu Se rentouttaa lihaksia ja parantaa nivelten liikkuvuutta. Kivut vähenevät ja mieli virkistyy. Hieronta nopeuttaa imunesteen kulkua, joten se vähentää turvotusta.</p>
+							<p>Hieronnan vaikutukset ovat moninaiset. Se vilkastuttaa verenkiertoa, jolloin hapen ja ravinteiden sekä kuona-aineiden kulku paranee. Klassinen hieronta rentouttaa lihaksia ja parantaa nivelten liikkuvuutta. Kivut vähenevät ja mieli virkistyy. Hieronta nopeuttaa imunesteen kulkua, joten se vähentää turvotusta.</p>
 
 							<h4>Tule klassiseen hierontaan jos:</h4>
 							<p>
 								- kärsit niska- ja hartiasäryistä tai jännityspäänsärystä<br>
-								<br>
 								- haluat eroon lihaskrampeista ja -kivuista<br>
-								<br>
 								- haluat apua unettomuuteen<br>
-								<br>
 								- liikeradat ovat rajoittuneet<br>
 								- olet parantumassa jostain vammasta<br>
 								- olet stressaantunut<br>

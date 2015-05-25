@@ -442,11 +442,13 @@ Works
 	font-size: 28px;
 	line-height: 26px;
 	text-align: center;
-	width: 50px;
+	/*width: 50px;*/
+	width: 80px;
 	/*width: inherit;*/
 	/*height: 23px;*/
 	overflow: hidden;
-	margin-left: -25px;
+	/*margin-left: -25px;*/
+	margin-left: -40px;
 	opacity: 0;
 	filter: alpha(opacity=0); /* internet explorer */
     -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(opacity=0)"; /*IE8*/

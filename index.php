@@ -332,8 +332,50 @@
 									<a href="#page" class="lb-close">X</a>
 									<img src="img/view/irina_talo.jpg" alt="" />
 									<div>
-										<h3>Sleek <span>/Design/</h3>
-										<p>Lorem ipsum dolor sit amet, ut decore iracundia urbanitas sit.</p>
+										<h3>Käyntiosoite <span>/Kotini/</h3>
+										<p>Liimattalantie 771 B, 44420 Liimattala</p>
+									</div>
+								</div>
+							</li>
+							<li>
+								<a href="#image-2">
+									<img src="img/view/thumbs/16101150239_d4d51353b0_o.png" alt="">
+									<span>+</span>
+								</a>
+								<div class="lb-overlay" id="image-2">
+									<a href="#page" class="lb-close">X</a>
+									<img src="img/view/16101150239_d4d51353b0_o.jpg" alt="" />
+									<div>
+										<h3>Hieronta <span><a href="https://creativecommons.org/licenses/by/2.0/">/Lisenssi/</a></h3>
+										<p><a href="https://www.flickr.com/photos/129941959@N06/16101150239/in/photolist-qwNB1B-eAmtC3-85wh9r-5uAjpj-o9xYia-h4fP5v-9F52Q5-4i4DFF-hDtRbK-8WW2pj-8MBzoo-84TdYt-fHffMb-9h6Woa-9hjgsM-6QHZfm-irKxCa-pDjHp-fpu55b-4i7chA-7k7Cy4-khvM8T-6Bpath-7maZ7N-4i36k4-4i36cR-jM7SCw-6oZw2K-6ofb9v-2Mw43i-dCkPtw-mVK87z-pUGrq-9F52Wb-RpTS-9pnzyh-7opVMQ-6EdPgr-aCTDVv-dgLm6L-9W2c1h-4tExD-qPfH8V-6FeLYF-eAmtAJ-PTf71-9rNgH-71RZnW-hN9FEK-8iuPzx">Kuvan </a><a href="https://www.flickr.com/photos/129941959@N06/">on ottanut: meridican</a></p>
+									</div>
+								</div>
+							</li>
+							<li>
+								<a href="#image-3">
+									<img src="img/view/thumbs/massage-389716_1920.png" alt="">
+									<span>+</span>
+								</a>
+								<div class="lb-overlay" id="image-3">
+									<a href="#page" class="lb-close">X</a>
+									<img src="img/view/massage-389716_1920.jpg" alt="" />
+									<div>
+										<h3>massage <span><a href="http://pixabay.com/fi/service/terms/#download_terms">/Lisenssi/</a></h3>
+										<p><a href="http://creativecommons.org/publicdomain/zero/1.0/">Public Domain (CC0)</a></p>
+									</div>
+								</div>
+							</li>
+							<li>
+								<a href="#image-4">
+									<img src="img/view/thumbs/relaxation-684716_1920.png" alt="">
+									<span>+</span>
+								</a>
+								<div class="lb-overlay" id="image-4">
+									<a href="#page" class="lb-close">X</a>
+									<img src="img/view/relaxation-684716_1920.jpg" alt="" />
+									<div>
+										<h3>relaxation <span><a href="http://pixabay.com/fi/service/terms/#download_terms">/Lisenssi/</a></h3>
+										<p><a href="http://creativecommons.org/publicdomain/zero/1.0/">Public Domain (CC0)</a></p>
 									</div>
 								</div>
 							</li>

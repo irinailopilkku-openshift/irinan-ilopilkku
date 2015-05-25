@@ -433,7 +433,6 @@ Works
 	width: 260px;
 }
 .lb-overlay a.lb-close{
-	
 	z-index: 1001;
 	color: #fff;
 	position: absolute;
@@ -444,7 +443,8 @@ Works
 	line-height: 26px;
 	text-align: center;
 	width: 50px;
-	height: 23px;
+	/*width: inherit;*/
+	/*height: 23px;*/
 	overflow: hidden;
 	margin-left: -25px;
 	opacity: 0;

@@ -329,7 +329,7 @@
 									<span>+</span>
 								</a>
 								<div class="lb-overlay" id="image-1">
-									<a href="#page" class="lb-close">X</a>
+									<a href="#page" class="lb-close">X Sulje</a>
 									<img src="img/view/irina_talo.jpg" alt="" />
 									<div>
 										<h3>Käyntiosoite <span>/Kotini/</h3>
@@ -343,7 +343,7 @@
 									<span>+</span>
 								</a>
 								<div class="lb-overlay" id="image-2">
-									<a href="#page" class="lb-close">X</a>
+									<a href="#page" class="lb-close">X Sulje</a>
 									<img src="img/view/16101150239_d4d51353b0_o.jpg" alt="" />
 									<div>
 										<h3>Hieronta <span><a href="https://creativecommons.org/licenses/by/2.0/">/Lisenssi/</a></h3>
@@ -357,7 +357,7 @@
 									<span>+</span>
 								</a>
 								<div class="lb-overlay" id="image-3">
-									<a href="#page" class="lb-close">X</a>
+									<a href="#page" class="lb-close">X Sulje</a>
 									<img src="img/view/massage-389716_1920.jpg" alt="" />
 									<div>
 										<h3>massage <span><a href="http://pixabay.com/fi/service/terms/#download_terms">/Lisenssi/</a></h3>
@@ -371,7 +371,7 @@
 									<span>+</span>
 								</a>
 								<div class="lb-overlay" id="image-4">
-									<a href="#page" class="lb-close">X</a>
+									<a href="#page" class="lb-close">X Sulje</a>
 									<img src="img/view/relaxation-684716_1920.jpg" alt="" />
 									<div>
 										<h3>relaxation <span><a href="http://pixabay.com/fi/service/terms/#download_terms">/Lisenssi/</a></h3>

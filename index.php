@@ -71,7 +71,7 @@
 					<div class="col-xs-12 col-sm-offset-4 col-sm-4 col-md-offset-4 col-md-4 col-lg-offset-4 col-lg-4">
 						<div class="box-team wow bounceInDown" data-wow-delay="0.1s">
 							<h4>Irina Kraft</h4>
-							<p>Yrittäjä / Hieroja</p>
+							<p>Yrittäjä / Fysioterapeutti</p>
 						</div>
 					</div>
 					<!--

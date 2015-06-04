@@ -125,7 +125,7 @@ Home sections
 	
 .section-heading h2 {
 	font-size: 38px;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 }
 	
 .section-heading .heading-line {

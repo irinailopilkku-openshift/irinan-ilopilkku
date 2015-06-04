@@ -173,10 +173,14 @@ Spacer
 #spacer1{
 	/*background-image: url(../img/spacer/1.jpg);*/
 	background-image: url(../img/view/relaxation-684716_1920.jpg);
+	background-repeat: no-repeat;
+	background-position: center -238px;
 }
 #spacer2{	
 	/*background-image: url(../img/spacer/2.jpg);*/
 	background-image: url(../img/view/massage-389716_1920.jpg);
+	background-repeat: no-repeat;
+	background-position: center -570px;
 }
 
 

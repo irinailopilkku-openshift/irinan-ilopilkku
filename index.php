@@ -131,7 +131,7 @@
 					<div class="col-md-offset-2 col-md-8">
 						<div class="section-heading">
 							<h2>Palvelut</h2>
-							<p>Palvelut tarjolla Konginkankaan Reimarin Tuvan hoitohuoneella, kotonani Liimattalantiellä tai kotikäynteinä.</p>
+							<p>Palvelut tarjolla Konginkankaan Reimarin Tuvan hoitohuoneella, kotonani Liimattalantiellä tai kotikäynteinä. Soita ja varaa aikasi! Teen töitä sovitusti myös virka-aikojen ulkopuolella.</p>
 						</div>
 					</div>
 				</div>

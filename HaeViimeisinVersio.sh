@@ -1,8 +1,8 @@
 echo.
-echo "Hae viimeisin versio palvelimelta."
+echo "Tallenna muutokset paikalliseen kantaan."
 
-read -p "Paina [Enter] : Hae versio ..."
-echo "Haetaan viimeisin versio."
+read -p "Paina [Enter] : Tallenna muutokset ..."
+echo "Tallennetaan muutokset"
 echo.
 #git commit -a --dry-run
 git pull origin master

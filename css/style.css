@@ -191,12 +191,14 @@ Intro
 ================================= */
 
 #intro{
-    height:635px;
+    /*height:635px;*/
+    height:640px;
     width:100%;
     /*background-color: #529abb;*/
     background-color: #c87ea2;
     /*background-image: url(../img/bg-mac.png);*/
     /*background-image: url(../img/tall-grass-with-seeds.svg);*/
+    background-image: url(../img/view/window-frame-open-window-frame-open-window-blank.jpg);
     background-position:center;
     background-repeat:no-repeat;
     overflow-y:hidden;

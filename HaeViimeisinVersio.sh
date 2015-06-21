@@ -1,2 +1,11 @@
-echo "TEST"
-read -p "Press [Enter] key to start backup..."
+echo.
+echo "Hae viimeisin versio palvelimelta."
+
+read -p "Paina [Enter] : Hae versio ..."
+echo "Haetaan viimeisin versio."
+echo.
+#git commit -a --dry-run
+git pull origin HEAD
+
+echo.
+read -p "Paina [Enter] : Sulja ikkuna."

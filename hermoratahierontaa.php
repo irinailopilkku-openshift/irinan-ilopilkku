@@ -53,7 +53,7 @@
 				<div class="row">
 					<div class="col-md-offset-2 col-md-8">
 						<div class="section-heading">
-							<h2>Klassinen Hieronta</h2>
+							<h2>Hermoratahierontaa</h2>
 							<!-- <p>Tarjoamme hieronta palveluja.</p> -->
 						</div>
 					</div>
@@ -62,80 +62,10 @@
 					<!-- <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12"> -->
 					<div class="col-xs-12 col-sm-offset-2 col-sm-8 col-md-offset-2 col-md-8 col-lg-offset-2 col-lg-8">
 						<div class="box-team">
-							<h4>Mitä klassinen hieronta on?</h4>
-							<p>Klassinen hieronta on hyvin perinteinen kehoon ja mieleen vaikuttava hoitomuoto. Hieronta on käsin tehtyä pehmeisiin kudoksiin kohdistuvaa muokkausta. Rytmisillä ja liikkuvilla otteilla kudoksia painaen ja venyttäen pyritään parantamaan kudosten toimintoja. Hierontaa tehdään öljyä apuna käyttäen paljaalle iholle.</p>
-
-							<h4>Hieronnan vaikutukset</h4>
-							<p>Hieronnan vaikutukset ovat moninaiset. Se vilkastuttaa verenkiertoa, jolloin hapen ja ravinteiden sekä kuona-aineiden kulku paranee. Klassinen hieronta rentouttaa lihaksia ja parantaa nivelten liikkuvuutta. Kivut vähenevät ja mieli virkistyy. Hieronta nopeuttaa imunesteen kulkua, joten se vähentää turvotusta.</p>
-
-							<h4>Tule klassiseen hierontaan jos:</h4>
-							<p>
-								- kärsit niska- ja hartiasäryistä tai jännityspäänsärystä<br>
-								- haluat eroon lihaskrampeista ja -kivuista<br>
-								- haluat apua unettomuuteen<br>
-								- liikeradat ovat rajoittuneet<br>
-								- olet parantumassa jostain vammasta<br>
-								- olet stressaantunut<br>
-								- kuntoilet paljon tai teet fyysisesti raskasta työtä ja haluat nopeuttaa palautumista<br>
-								- haluat vain rentoutua ja hemmotella itseäsi<br>
-							</p>
-
-							<h4>Huomioitavaa</h4>
-							<p>Joissakin tilanteissa on parempi välttää hierontaa, koska on olemassa mahdollisuus, että siitä on terveydellistä haittaa. Tällaisia riskitilanteita ovat</p>
-							<p>
-								- infektiot<br>
-								- laskimotukokset<br>
-								- pahanlaatuiset kasvaimet<br>
-								- spastiset halvaukset<br>
-								- hemofilia (verenvuototauti)<br>
-								- ihotaudit<br>
-								- tuoreet vammat<br>
-								- iskut kudoksiin<br>
-								- suurentuneet imurauhaset<br>
-								- tyrä<br>
-								- sydämentahdistin<br>
-							</p>
-							<p>Useimmiten nämä tulee huomioida hieronnassa, mutta ne eivät välttämättä ole esteenä hieronnalle. Epävarmoissa tilanteissa suositellaan turhien riskien välttämistä. Asiantuntevan lääkärin arvio tilanteesta on tällöin suositeltavaa ennen hierontaa.</p>
+							<h4>Lisää tietoa tulossa.</h4>
+							<p>Lisää tietoa tulossa.</p>
 						</div>
 					</div>
-					<!--
-					<div class="col-xs-12 col-sm-offset-4 col-sm-4 col-md-offset-4 col-md-4 col-lg-offset-4 col-lg-4">
-						<div class="box-team wow bounceInDown" data-wow-delay="0.1s">
-							<h4>Irina Kraft</h4>
-							<p>Yrittäjä / Hieroja</p>
-						</div>
-					</div>
-					-->
-					<!--
-					<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
-						<div class="box-team wow bounceInDown" data-wow-delay="0.1s">
-							<img src="img/team/1.jpg" alt="" class="img-responsive" />
-							<h4>Kurt coleman</h4>
-							<p>Art Director</p>
-						</div>
-					</div>
-					<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3" data-wow-delay="0.3s">
-						<div class="box-team wow bounceInDown">
-							<img src="img/team/2.jpg" alt="" class="img-responsive" />
-							<h4>Isobel lyna</h4>
-							<p>Web Designer</p>
-						</div>
-					</div>
-					<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3" data-wow-delay="0.5s">
-						<div class="box-team wow bounceInDown">
-							<img src="img/team/3.jpg" alt="" class="img-responsive" />
-							<h4>Leslie gutierrez</h4>
-							<p>Illustrator</p>
-						</div>
-					</div>
-					<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3" data-wow-delay="0.7s">
-						<div class="box-team wow bounceInDown">
-							<img src="img/team/4.jpg" alt="" class="img-responsive" />
-							<h4>Letitia pena</h4>
-							<p>Typographer</p>
-						</div>
-					</div>
-					-->
 				</div>
 			</div>
 		</section>

@@ -24,12 +24,21 @@
 					<li><a href="#services">Palvelut</a></li>
 					<li><a href="#contact">Yhteystiedot</a></li>
 					<!-- <li><a href="#works">Works</a></li> -->
-					<li><a href="#works">Kuvia</a></li>
+					<li><a href="#works">Fysioterapia</a></li>
 					<li>
 						<a href="#">Sivut</a>
 						<ul class="dl-submenu">
+							<li><a href="hermoratahierontaa.php">Hermoratahierontaa</a></li>
+						</ul>
+						<ul class="dl-submenu">
 							<li><a href="klassinen_hieronta.php">Klassinen Hieronta</a></li>
 							<!-- <li><a href="#">Sub menu</a></li> -->
+						</ul>
+						<ul class="dl-submenu">
+							<li><a href="kotikuntoutusta.php">Kotikuntoutusta</a></li>
+						</ul>
+						<ul class="dl-submenu">
+							<li><a href="fysioterapia.php">Fysioterapia</a></li>
 						</ul>
 					</li>
 				</ul>
@@ -143,6 +152,7 @@
 							<i class="fa fa-star-half-o fa-4x"></i>
 							<h4>Hermoratahierontaa</h4>
 							<p>(opiskelijatyönä)</p>
+							<a class="btn btn-primary" href="hermoratahierontaa.php">Lisää tietoa</a>
 						</div>
 					</div>
 					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3" data-wow-delay="0.3s">
@@ -158,6 +168,7 @@
 							<i class="fa fa-home fa-4x"></i>
 							<h4>Kotikuntoutusta</h4>
 							<p>Yksilöllistä liikunnanohjausta toimintakyvyn ylläpitämiseksi ja kohentamiseksi.</p>
+							<a class="btn btn-primary" href="kotikuntoutusta.php">Lisää tietoa</a>
 						</div>
 					</div>
 					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3" data-wow-delay="0.3s">
@@ -165,6 +176,7 @@
 							<i class="fa fa-home fa-4x"></i>
 							<h4>Fysioterapia</h4>
 							<p>Fysioterapia myös lääkärin lähetteellä</p>
+							<a class="btn btn-primary" href="fysioterapia.php">Lisää tietoa</a>
 						</div>
 					</div>
 					<!--

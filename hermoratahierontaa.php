@@ -29,15 +29,8 @@
 						<a href="#">Sivut</a>
 						<ul class="dl-submenu">
 							<li><a href="hermoratahierontaa.php">Hermoratahierontaa</a></li>
-						</ul>
-						<ul class="dl-submenu">
 							<li><a href="klassinen_hieronta.php">Klassinen Hieronta</a></li>
-							<!-- <li><a href="#">Sub menu</a></li> -->
-						</ul>
-						<ul class="dl-submenu">
 							<li><a href="kotikuntoutusta.php">Kotikuntoutusta</a></li>
-						</ul>
-						<ul class="dl-submenu">
 							<li><a href="fysioterapia.php">Fysioterapia</a></li>
 						</ul>
 					</li>

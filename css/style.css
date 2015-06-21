@@ -565,7 +565,8 @@ more media queries
 @media (max-width:768px) {
 	#intro{
 		/*background-image: url(../img/bg-mac.png);*/
-		background-image: url(../img/tall-grass-with-seeds.svg);
+		/*background-image: url(../img/tall-grass-with-seeds.svg);*/
+		background-image: url(../img/view/window-frame-open-window-frame-open-window-blank.jpg);
 		background-size:100%;
 	}
 	.box-team, .box-team img {

@@ -45,7 +45,7 @@
 							<div class="brand">
 								<h1><a href="/">Irinan Ilopilkku</a></h1>
 								<div class="line-spacer"></div>
-								<p><span>Yksityinen elinkeinonharjoittaja</span></p>
+								<p><span>Fysioterapeutti</span></p>
 								<p><span>Hieronta palvelu</span></p>
 							</div>
 						</div>

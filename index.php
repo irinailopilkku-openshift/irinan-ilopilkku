@@ -43,10 +43,11 @@
 					<div class="row">
 						<div class="col-md-12">
 							<div class="brand">
-								<h1><a href="/">Irinan Ilopilkku</a></h1>
+								<h1><a href="/" style="color: black; font-size: xx-large;">
+									Irinan Ilopilkku</a></h1>
 								<div class="line-spacer"></div>
-								<p><span>Fysioterapeutti</span></p>
-								<p><span>Hieronta palvelu</span></p>
+								<p><span style="color: black;">Fysioterapeutti</span></p>
+								<p><span style="color: black;">Hieronta palvelu</span></p>
 							</div>
 						</div>
 					</div>

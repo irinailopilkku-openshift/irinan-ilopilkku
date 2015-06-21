@@ -5,7 +5,7 @@ read -p "Paina [Enter] : Lähetä ..."
 echo "Lähetetään muutokset palvelimelle."
 echo.
 #git commit -a --dry-run
-git push origin HEAD
+git push origin master
 
 echo.
 read -p "Paina [Enter] : Sulja ikkuna."

@@ -138,14 +138,14 @@
 				</div>
 				<!-- fa icons are listed here : http://fontawesome.io/icons/ -->
 				<div class="row">
-					<div class="col-xs-12 col-sm-5 col-md-3 col-lg-3">
+					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
 						<div class="service-box wow bounceInDown" data-wow-delay="0.1s">
 							<i class="fa fa-star-half-o fa-4x"></i>
 							<h4>Hermoratahierontaa</h4>
 							<p>(opiskelijatyönä)</p>
 						</div>
 					</div>
-					<div class="col-xs-12 col-sm-5 col-md-3 col-lg-3" data-wow-delay="0.3s">
+					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3" data-wow-delay="0.3s">
 						<div class="service-box wow bounceInDown" data-wow-delay="0.1s">
 							<i class="fa fa-star fa-4x"></i>
 							<h4>Klassista hierontaa</h4>
@@ -153,14 +153,14 @@
 							<a class="btn btn-primary" href="klassinen_hieronta.php">Lisää tietoa</a>
 						</div>
 					</div>
-					<div class="col-xs-12 col-sm-5 col-md-3 col-lg-3" data-wow-delay="0.3s">
+					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3" data-wow-delay="0.3s">
 						<div class="service-box wow bounceInDown" data-wow-delay="0.1s">
 							<i class="fa fa-home fa-4x"></i>
 							<h4>Kotikuntoutusta</h4>
 							<p>Yksilöllistä liikunnanohjausta toimintakyvyn ylläpitämiseksi ja kohentamiseksi.</p>
 						</div>
 					</div>
-					<div class="col-xs-12 col-sm-5 col-md-3 col-lg-3" data-wow-delay="0.3s">
+					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3" data-wow-delay="0.3s">
 						<div class="service-box wow bounceInDown" data-wow-delay="0.1s">
 							<i class="fa fa-home fa-4x"></i>
 							<h4>Fysioterapia</h4>

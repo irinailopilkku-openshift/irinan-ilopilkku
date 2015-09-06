@@ -1,11 +1,18 @@
 echo.
-echo "L√§het√§ muutokset palvelimelle."
+echo "L‰het‰ muutokset palvelimelle."
 
-read -p "Paina [Enter] : L√§het√§ ..."
-echo "L√§hetet√§√§n muutokset palvelimelle."
 echo.
-#git commit -a --dry-run
+echo.
+read -p "Paina [Enter] : L‰het‰ palvelimelle"
+echo.
+echo "L‰hetet‰‰n muutokset palvelimelle. ( Menee v‰h‰n pitemp‰‰n :)"
+echo.
+echo.
+
+#
 git push origin master
 
 echo.
+echo.
 read -p "Paina [Enter] : Sulja ikkuna."
+

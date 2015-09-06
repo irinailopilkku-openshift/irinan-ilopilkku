@@ -7,11 +7,13 @@ tee muutokset sivuun. kun ne on valmiit:
 TallennaMuutos.sh (tallentaa omalle koneell)
 LahetaMuutokset.sh (lähettää ja ottaa ne käyttöön)
 
+______________________________
 
 NÄIN TEET MUUTOKSIA:
 
 muista Ctrl + s !!! perkele!!!
 
 
+Sublime Text 2 (tällä teet ne muutokset)
 
-
+index.php (pääsivu)

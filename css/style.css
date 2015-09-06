@@ -198,7 +198,8 @@ Intro
     background-color: #c87ea2;
     /*background-image: url(../img/bg-mac.png);*/
     /*background-image: url(../img/tall-grass-with-seeds.svg);*/
-    background-image: url(../img/view/window-frame-open-window-frame-open-window-blank.jpg);
+    /*background-image: url(../img/view/window-frame-open-window-frame-open-window-blank.jpg);*/
+    background-image: url(../img/view/new_frame.svg);
     background-position:center;
     background-repeat:no-repeat;
     overflow-y:hidden;
@@ -566,7 +567,8 @@ more media queries
 	#intro{
 		/*background-image: url(../img/bg-mac.png);*/
 		/*background-image: url(../img/tall-grass-with-seeds.svg);*/
-		background-image: url(../img/view/window-frame-open-window-frame-open-window-blank.jpg);
+		/*background-image: url(../img/view/window-frame-open-window-frame-open-window-blank.jpg);*/
+	    background-image: url(../img/view/new_frame.svg);
 		background-size:100%;
 	}
 	.box-team, .box-team img {

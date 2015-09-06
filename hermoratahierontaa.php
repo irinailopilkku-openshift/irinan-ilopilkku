@@ -56,6 +56,7 @@
 					<div class="col-xs-12 col-sm-offset-2 col-sm-8 col-md-offset-2 col-md-8 col-lg-offset-2 col-lg-8">
 						<div class="box-team">
 							<h4>Lisää tietoa tulossa.</h4>
+							<!-- tähän alapuolelle sisältöteksti -->
 							<p>Lisää tietoa tulossa.</p>
 						</div>
 					</div>

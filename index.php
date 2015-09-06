@@ -1,6 +1,6 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
-	<head>
+	<head> <!-- test -->
 		<title>Irinan ilopilkku</title>
 		<meta charset="utf-8">
 		<meta name="description" content="Hermoratahierontaa, klassista hierontaa sekä kotikuntoutusta : yksilöllistä liikunnanohjausta toimintakyvyn ylläpitämiseksi ja kohentamiseksi. Palvelut tarjolla Konginkankaan Reimarin Tuvan hoitohuoneella, kotonani Liimattalantiellä tai kotikäynteinä .">

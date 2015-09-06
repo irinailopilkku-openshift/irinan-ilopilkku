@@ -1,0 +1,17 @@
+HaeViimeisinVersio.sh
+
+aloita tällä ja paina niitä enttereitä.
+
+tee muutokset sivuun. kun ne on valmiit:
+
+TallennaMuutos.sh (tallentaa omalle koneell)
+LahetaMuutokset.sh (lähettää ja ottaa ne käyttöön)
+
+
+NÄIN TEET MUUTOKSIA:
+
+muista Ctrl + s !!! perkele!!!
+
+
+
+

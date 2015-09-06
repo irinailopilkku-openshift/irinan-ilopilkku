@@ -3,7 +3,7 @@
 	<head>
 		<title>Irinan ilopilkku</title>
 		<meta charset="utf-8">
-		<meta name="description" content="Irinan Ilopilkku hieronta palvelu yritys . Hermoratahierontaa ( opiskelijatyönä ), klassista hierontaa sekä kotikuntoutusta : yksilöllistä liikunnanohjausta toimintakyvyn ylläpitämiseksi ja kohentamiseksi. Palvelut tarjolla Konginkankaan Reimarin Tuvan hoitohuoneella, kotonani Liimattalantiellä tai kotikäynteinä .">
+		<meta name="description" content="Hermoratahierontaa, klassista hierontaa sekä kotikuntoutusta : yksilöllistä liikunnanohjausta toimintakyvyn ylläpitämiseksi ja kohentamiseksi. Palvelut tarjolla Konginkankaan Reimarin Tuvan hoitohuoneella, kotonani Liimattalantiellä tai kotikäynteinä .">
 		<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
 		<!-- icon -->
 		<link rel="icon" href="img/icon_irina.png" type="image/x-icon" />
@@ -31,7 +31,7 @@
 							<li><a href="hermoratahierontaa.php">Hermoratahierontaa</a></li>
 							<li><a href="klassinen_hieronta.php">Klassinen Hieronta</a></li>
 							<!-- <li><a href="#">Sub menu</a></li> -->
-							<li><a href="kotikuntoutusta.php">Kotikuntoutusta</a></li>
+							<li><a href="kotikuntoutusta.php">Kotikuntoutus</a></li>
 							<li><a href="fysioterapia.php">Fysioterapia</a></li>
 						</ul>
 					</li>
@@ -50,7 +50,7 @@
 									Irinan Ilopilkku</a></h1>
 								<div class="line-spacer"></div>
 								<p><span style="color: black;">Fysioterapeutti</span></p>
-								<p><span style="color: black;">Hieronta palvelu</span></p>
+								<p><span style="color: black;">Hierontapalvelu</span></p>
 							</div>
 						</div>
 					</div>
@@ -65,8 +65,14 @@
 				<div class="row">
 					<div class="col-md-offset-2 col-md-8">
 						<div class="section-heading">
-							<h2>Tietoa minusta</h2>
-							<p>Tarjoamme hieronta palveluja.</p>
+							<h2>Hermoratahieronnalla apua moniin vaivoihin</h2>
+							<p>- Tuki- ja liikuntaelinten vaivat
+								- Kivut, säryt ja tulehdukset
+								- Migreeni, reuma, astma
+								- Unettomuus, stressi, masennus
+								- Ruoansulatus- ja imeytyshäiriöt
+								- Aineenvaihdunta ja hormonihäiriöt
+							</p>
 						</div>
 					</div>
 				</div>

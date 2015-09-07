@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 	<head> <!-- test -->
 		<title>Irinan ilopilkku</title>
@@ -50,8 +50,8 @@
 								<h1><a href="/" style="color: black; font-size: xx-large;">
 									Irinan Ilopilkku</a></h1>
 								<div class="line-spacer"></div>
-								<p><span style="color: black;">Fysioterapeutti</span></p>
-								<p><span style="color: black;">Hierontapalvelu</span></p>
+								<p><span style="color: black;">Fysioterapia</span></p>
+								<p><span style="color: black;">Hieronta, hermoratahieronta</span></p>
 							</div>
 						</div>
 					</div>
@@ -67,13 +67,13 @@
 					<div class="col-md-offset-2 col-md-8">
 						<div class="section-heading">
 							<h2>Hermoratahieronnalla apua moniin vaivoihin</h2>
-							<p>- Tuki- ja liikuntaelinten vaivat
+							<p>- Tuki- ja liikuntaelinten vaivat, kuten niska-hartiaseudun vaivat
 								- Kivut, säryt ja tulehdukset
 								- Migreeni, reuma, astma
 								- Unettomuus, stressi, masennus
 								- Ruoansulatus- ja imeytyshäiriöt
 								- Aineenvaihdunta ja hormonihäiriöt
-							</p>
+							<h2>Klassista hierontaa ja fysioterapiaa helpottamaan lihaskiristyksiä ja jomotusta</h2>							</p>
 						</div>
 					</div>
 				</div>

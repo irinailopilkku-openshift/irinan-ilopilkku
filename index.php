@@ -142,7 +142,7 @@
 					<div class="col-md-offset-2 col-md-8">
 						<div class="section-heading">
 							<h2>Palvelut</h2>
-							<p>Palvelut tarjolla Konginkankaan Reimarin Tuvan hoitohuoneella, kotonani Liimattalantiellä tai kotikäynteinä. Soita ja varaa aikasi! Teen töitä sovitusti myös virka-aikojen ulkopuolella.</p>
+							<p>Palvelut tarjolla Konginkankaan Reimarin Tuvan hoitohuoneella, kotonani Liimattalantiellä tai kotikäynteinä. Soita ja varaa aikasi! P. 040 415 91 75 Teen töitä sovitusti myös virka-aikojen ulkopuolella.</p>
 						</div>
 					</div>
 				</div>
@@ -169,7 +169,7 @@
 							<i class="fa fa-home fa-4x"></i>
 							<h4>Kotikuntoutusta</h4>
 							<p>Yksilöllistä liikunnanohjausta toimintakyvyn ylläpitämiseksi ja kohentamiseksi.</p>
-							<a class="btn btn-primary" href="kotikuntoutusta.php">Lisää tietoa</a>
+							<a class="btn btn-primary" href="kotikuntoutusta.php">Suunnitellaan yhdessä juuri sellainen liikuntasuunnitelma, mikä sopii parhaiten tähän hetkeen elämässä. Mietitään tavoitteet ja mahdollisuudet, joiden mukaan edetään. Tehdään kuntosaliohjelma tai jumppatuokio kotiin käyttäen kehon omaa painoa vastuksena tai vaikka mehupulloja käsipainoina.</a>
 						</div>
 					</div>
 					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3" data-wow-delay="0.3s">

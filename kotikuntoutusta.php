@@ -55,7 +55,7 @@
 					<!-- <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12"> -->
 					<div class="col-xs-12 col-sm-offset-2 col-sm-8 col-md-offset-2 col-md-8 col-lg-offset-2 col-lg-8">
 						<div class="box-team">
-							<h4>Lisää tietoa tulossa.</h4>
+							<h4>Lisää lihasvoimaa, parempaa kuntoa arjessa jaksamiseen.</h4>
 							<p>Suunnitellaan yhdessä juuri sellainen liikuntasuunnitelma, mikä sopii parhaiten tähän hetkeen elämässä. Mietitään tavoitteet ja mahdollisuudet, joiden mukaan edetään. Tehdään kuntosaliohjelma tai jumppatuokio kotiin käyttäen kehon omaa painoa vastuksena tai vaikka mehupulloja käsipainoina.</p>
 						</div>
 					</div>

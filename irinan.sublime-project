@@ -11,6 +11,9 @@
 				//"*.mo",
 				//"*.woff",
 				"*.bak",
+				"*.sh",
+				"*.lnk",
+				".gitignore",
 				"irinan.tmproj",
 				"irinan.sublime-workspace",
 				"irinan.sublime-project"
@@ -22,6 +25,7 @@
 				//"www/elmo/static/images",
 				//"www/elmo/static/fonts",
 				//"www/data"
+				".openshift"
 			],
 
 			// These files will still show up in the side bar, 

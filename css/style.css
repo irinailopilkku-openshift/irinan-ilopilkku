@@ -576,8 +576,8 @@ more media queries
 		/*background-image: url(../img/view/window-frame-open-window-frame-open-window-blank.jpg);*/
 		/*background-image: url(../img/view/new_frame.svg);*/
 		background-image: url(../img/view/new_frame.png);
-		/*background-size:100%;*/
-		background-size: 700px;
+		background-size:100%;
+		/*background-size: 700px;*/
 	}
 	.box-team, .box-team img {
 		text-align: center;

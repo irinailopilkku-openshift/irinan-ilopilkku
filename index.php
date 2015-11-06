@@ -247,6 +247,9 @@
 								<br>
 								Puhelinnumero<br>
 								040 415 91 75<br>
+								<br>
+								Sähköposti<br>
+								irinanneli@gmail.com<br>
 							</p>
 						</div>
 					</div>

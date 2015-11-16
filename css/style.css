@@ -566,6 +566,22 @@ footer {
 
 
 /* ================================
+Lista
+================================= */
+ul.lista {	
+	margin: 0;
+	margin-left:0;
+	padding-left: 0;
+	list-style: none;
+	text-align: left;
+}
+ul.lista li {
+	display: inline;
+	margin: 5px 5px;
+}
+
+
+/* ================================
 more media queries
 ================================= */
 

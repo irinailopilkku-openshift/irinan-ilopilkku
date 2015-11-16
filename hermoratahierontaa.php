@@ -66,13 +66,31 @@
 							<p>Hoidon alkuvaiheessa asiakkaalle saattaa tulla ns. paranemiskriisi eli kehon piilovaivat tulevat esille. Sen aiheuttaa kuona-aineiden tehokas poistuminen kehosta erityselinten toiminnan tehostuessa. Oireet ilmenevät ohimenevinä tuntemuksina esim. päänsärkynä, ihottumana, kipujen pahenemisena, kuumeena, ripulina jne. Nämä oireet ovat kuitenkin aina ohimeneviä ja häviävät hoidon jatkuessa. Kaikille näitä tuntemuksia ei kuitenkaan tule tai ne ovat niin lieviä, ettei henkilö niitä huomaakaan.</p>
 
 							<p>Hermoratahieronnasta on saatu apua mm. seuraaviin jo kehittyneisiin vaivoihin:</p>
-							
-							<ul>
-								<li>allergiat</li>
-								<li>astma</li>
-								<li>diabetes</li>
-							</ul>
-							
+
+							<div class="col-xs-12 col-sm-offset-3 col-sm-6 col-md-offset-3 col-md-6 col-lg-offset-3 col-lg-6">
+								<ul class="lista">
+									<li>allergiat</li>
+									<li>astma</li>
+									<li>diabetes</li>
+									<li>halvaantuminen</li>
+									<li>hormonaaliset häiriöt</li>
+									<li>ihottuma</li>
+									<li>kolmoishermovaivat</li>
+									<li>lapsettomuus</li>
+									<li>migreeni</li>
+									<li>niska-, hartiakipu</li>
+									<li>päänsärky</li>
+									<li>reuma</li>
+									<li>ruoansulatus- ja imeytymishäiriöt</li>
+									<li>selkäkipu</li>
+									<li>sydän-, maksa- ja munuaisvaivat</li>
+									<li>unettomuus</li>
+									<li>vatsavaivat</li>
+									<li>vauvan koliikki</li>
+									<li>määrittelemättömät kivut tai vaivat, joita koululääketiede ei ole tunnistanut</li>
+								</ul>
+							</div>
+
 							<p>TÄHÄN LISTA
 							•	allergiat
 							•	astma

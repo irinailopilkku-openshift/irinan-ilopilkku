@@ -91,29 +91,13 @@
 								</ul>
 							</div>
 
-							<p>TÄHÄN LISTA
-							•	allergiat
-							•	astma
-							•	diabetes
-							•	halvaantuminen
-							•	hormonaaliset häiriöt
-							•	ihottuma
-							•	kolmoishermovaivat
-							•	lapsettomuus
-							•	migreeni
-							•	niska-, hartiakipu
-							•	päänsärky
-							•	reuma
-							•	ruoansulatus- ja imeytymishäiriöt
-							•	selkäkipu
-							•	sydän-, maksa- ja munuaisvaivat
-							•	unettomuus
-							•	vatsavaivat
-							•	vauvan koliikki
-							•	määrittelemättömät kivut tai vaivat, joita koululääketiede ei ole tunnistanut
-
-							</p>
-							<p>Terveellä ihmisellä hermoratahoito rentouttaa ja tukee kehon vastustuskykyä.</p>
+							<!--
+								quick fix figure out -> is there better way
+								 - more divs?
+								 - is there col-lg-offset-from-right ?? 
+								style="display: inline-block;"
+							-->
+							<p style="display: inline-block;">Terveellä ihmisellä hermoratahoito rentouttaa ja tukee kehon vastustuskykyä.</p>
 							
 						</div>
 					</div>
@@ -144,7 +128,7 @@
 				$('ul.dl-menu li a').smoothScroll();
 
 				// $( '#dl-menu' ).openMenu;
-				$('#dl-menu').dlmenu("openMenu");
+				//$('#dl-menu').dlmenu("openMenu");
 
 				//animation
 				// new WOW().init();

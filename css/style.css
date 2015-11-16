@@ -572,11 +572,11 @@ ul.lista {
 	margin: 0;
 	margin-left:0;
 	padding-left: 0;
-	list-style: none;
+	/*list-style: none;*/
 	text-align: left;
 }
 ul.lista li {
-	display: inline;
+	/*display: inline;*/
 	margin: 5px 5px;
 }
 

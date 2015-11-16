@@ -66,14 +66,25 @@
 				<div class="row">
 					<div class="col-md-offset-2 col-md-8">
 						<div class="section-heading">
-							<h2>Hermoratahieronnalla apua moniin vaivoihin</h2>
-							<p>- Tuki- ja liikuntaelinten vaivat, kuten niska-hartiaseudun vaivat
+							<h3>Hermoratahieronnalla apua moniin vaivoihin</h3>
+							<div class="col-xs-12 col-sm-offset-3 col-sm-6 col-md-offset-3 col-md-6 col-lg-offset-3 col-lg-6">
+								<ul class="lista">
+									<li>Tuki- ja liikuntaelinten vaivat, kuten niska-hartiaseudun vaivat</li>
+									<li>Kivut, säryt ja tulehdukset</li>
+									<li>Migreeni, reuma, astma</li>
+									<li>Unettomuus, stressi, masennus</li>
+									<li>Ruoansulatus- ja imeytyshäiriöt</li>
+									<li>Aineenvaihdunta ja hormonihäiriöt</li>
+								</ul>
+							</div>
+							<!-- <p>- Tuki- ja liikuntaelinten vaivat, kuten niska-hartiaseudun vaivat
 								- Kivut, säryt ja tulehdukset
 								- Migreeni, reuma, astma
 								- Unettomuus, stressi, masennus
 								- Ruoansulatus- ja imeytyshäiriöt
 								- Aineenvaihdunta ja hormonihäiriöt
-							<h2>Klassista hierontaa ja fysioterapiaa helpottamaan lihaskiristyksiä ja jomotusta</h2>							</p>
+							</p> -->
+							<h4 style="display: inline-block;">Klassista hierontaa ja fysioterapiaa helpottamaan lihaskiristyksiä ja jomotusta</h4>
 						</div>
 					</div>
 				</div>

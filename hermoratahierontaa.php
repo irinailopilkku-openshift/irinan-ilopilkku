@@ -130,7 +130,7 @@
 				$('ul.dl-menu li a').smoothScroll();
 
 				// $( '#dl-menu' ).openMenu;
-				//$('#dl-menu').dlmenu("openMenu");
+				$('#dl-menu').dlmenu("openMenu");
 
 				//animation
 				// new WOW().init();

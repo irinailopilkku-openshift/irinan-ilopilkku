@@ -163,7 +163,7 @@
 						<div class="service-box wow bounceInDown" data-wow-delay="0.1s">
 							<i class="fa fa-star-half-o fa-4x"></i>
 							<h4>Hermoratahierontaa</h4>
-							<p>(opiskelijatyönä)</p>
+							<!-- <p>(opiskelijatyönä)</p> -->
 							<a class="btn btn-primary" href="hermoratahierontaa.php">Lisää tietoa</a>
 						</div>
 					</div>

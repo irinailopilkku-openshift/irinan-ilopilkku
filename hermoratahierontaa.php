@@ -3,6 +3,7 @@
 	<head>
 		<title>Irinan ilopilkku</title>
 		<meta charset="utf-8">
+		<meta name="keywords" content="Hermoratahieronta">
 		<meta name="description" content="Irinan Ilopilkku hieronta palvelu yritys . Hermoratahierontaa ( opiskelijatyönä ), klassista hierontaa sekä kotikuntoutusta : yksilöllistä liikunnanohjausta toimintakyvyn ylläpitämiseksi ja kohentamiseksi. Palvelut tarjolla Konginkankaan Reimarin Tuvan hoitohuoneella, kotonani Liimattalantiellä tai kotikäynteinä .">
 		<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
 		<!-- icon -->
@@ -57,7 +58,35 @@
 						<div class="box-team">
 							<h4>Lisää tietoa tulossa.</h4>
 							<!-- tähän alapuolelle sisältöteksti -->
-							<p>Lisää tietoa tulossa.</p>
+							<p>Hermoratahieronta on fysiologiaan perustuvaa hoitoa ja se sopii kaikille ja kaiken ikäisille. Ainoana poikkeuksena on raskaus, juuri tehty leikkaus (alle 2 kk leikkauksesta) ja elinsiirtopotilaat.</p>
+							<p>Hoitokerta kestää 1,5 - 2 tuntia ja sen aikana käydään läpi koko keho painanta-pyöräytys -otteella. Hoito elvyttää verenkiertoa, aineenvaihduntaa, vahvistaa sydäntä ja tehostaa lihasten palautumiskykyä. Se myös tehostaa imunestekiertoa, ruuansulatusta, sisäelimiä ja hormonitoimintaa. Vilkastunut verenkierto nopeuttaa lihasten hapen ja ravinteiden saantia sekä kuona-aineiden poistumista. Hoito on hyvä aloittaa 4-5 kerran aloitusjaksolla, jolloin tehdään hoito noin viikon välein. Tämän jälkeen hoitokertojen väliä voidaan pidentää aina jopa 6 viikkoon ja edelleen hoito on kuntouttavaa. Koko hoitojakson pituus on hyvin yksilöllistä ja siihen vaikuttaa vaivojen laatu ja määrä. Hoidossa ei käytetä öljyjä, joten se voidaan tehdä paljaalle iholle tai ohuen vaatekerran läpi.</p>
+							<p>Hoidon alkuvaiheessa asiakkaalle saattaa tulla ns. paranemiskriisi eli kehon piilovaivat tulevat esille. Sen aiheuttaa kuona-aineiden tehokas poistuminen kehosta erityselinten toiminnan tehostuessa. Oireet ilmenevät ohimenevinä tuntemuksina esim. päänsärkynä, ihottumana, kipujen pahenemisena, kuumeena, ripulina jne. Nämä oireet ovat kuitenkin aina ohimeneviä ja häviävät hoidon jatkuessa. Kaikille näitä tuntemuksia ei kuitenkaan tule tai ne ovat niin lieviä, ettei henkilö niitä huomaakaan.</p>
+							<p>Hermoratahieronnasta on saatu apua mm. seuraaviin jo kehittyneisiin vaivoihin:</p>
+							<p>TÄHÄN LISTA
+								
+							•	allergiat
+							•	astma
+							•	diabetes
+							•	halvaantuminen
+							•	hormonaaliset häiriöt
+							•	ihottuma
+							•	kolmoishermovaivat
+							•	lapsettomuus
+							•	migreeni
+							•	niska-, hartiakipu
+							•	päänsärky
+							•	reuma
+							•	ruoansulatus- ja imeytymishäiriöt
+							•	selkäkipu
+							•	sydän-, maksa- ja munuaisvaivat
+							•	unettomuus
+							•	vatsavaivat
+							•	vauvan koliikki
+							•	määrittelemättömät kivut tai vaivat, joita koululääketiede ei ole tunnistanut
+
+							</p>
+							<p>Terveellä ihmisellä hermoratahoito rentouttaa ja tukee kehon vastustuskykyä.</p>
+							
 						</div>
 					</div>
 				</div>

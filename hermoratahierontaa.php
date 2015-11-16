@@ -23,7 +23,7 @@
 					<li><a href="index.php">Etusivu</a></li>
 					<li><a href="index.php">Tietoa minusta</a></li>
 					<li><a href="index.php">Palvelut</a></li>
-					<li><a href="index.php">Yhteystiedot</a></li>
+					<li><a href="index.php#contact">Yhteystiedot</a></li>
 					<!-- <li><a href="#works">Works</a></li> -->
 					<li><a href="index.php">Kuvia</a></li>
 					<li>
@@ -54,16 +54,26 @@
 				</div>
 				<div class="row">
 					<!-- <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12"> -->
-					<div class="col-xs-12 col-sm-offset-2 col-sm-8 col-md-offset-2 col-md-8 col-lg-offset-2 col-lg-8">
+					<div class="col-xs-12 col-sm-offset-1 col-sm-10 col-md-offset-1 col-md-10 col-lg-offset-1 col-lg-10">
 						<div class="box-team">
-							<h4>Lisää tietoa tulossa.</h4>
+							<!-- <h4>Lisää tietoa tulossa.</h4> -->
 							<!-- tähän alapuolelle sisältöteksti -->
+
 							<p>Hermoratahieronta on fysiologiaan perustuvaa hoitoa ja se sopii kaikille ja kaiken ikäisille. Ainoana poikkeuksena on raskaus, juuri tehty leikkaus (alle 2 kk leikkauksesta) ja elinsiirtopotilaat.</p>
+
 							<p>Hoitokerta kestää 1,5 - 2 tuntia ja sen aikana käydään läpi koko keho painanta-pyöräytys -otteella. Hoito elvyttää verenkiertoa, aineenvaihduntaa, vahvistaa sydäntä ja tehostaa lihasten palautumiskykyä. Se myös tehostaa imunestekiertoa, ruuansulatusta, sisäelimiä ja hormonitoimintaa. Vilkastunut verenkierto nopeuttaa lihasten hapen ja ravinteiden saantia sekä kuona-aineiden poistumista. Hoito on hyvä aloittaa 4-5 kerran aloitusjaksolla, jolloin tehdään hoito noin viikon välein. Tämän jälkeen hoitokertojen väliä voidaan pidentää aina jopa 6 viikkoon ja edelleen hoito on kuntouttavaa. Koko hoitojakson pituus on hyvin yksilöllistä ja siihen vaikuttaa vaivojen laatu ja määrä. Hoidossa ei käytetä öljyjä, joten se voidaan tehdä paljaalle iholle tai ohuen vaatekerran läpi.</p>
+
 							<p>Hoidon alkuvaiheessa asiakkaalle saattaa tulla ns. paranemiskriisi eli kehon piilovaivat tulevat esille. Sen aiheuttaa kuona-aineiden tehokas poistuminen kehosta erityselinten toiminnan tehostuessa. Oireet ilmenevät ohimenevinä tuntemuksina esim. päänsärkynä, ihottumana, kipujen pahenemisena, kuumeena, ripulina jne. Nämä oireet ovat kuitenkin aina ohimeneviä ja häviävät hoidon jatkuessa. Kaikille näitä tuntemuksia ei kuitenkaan tule tai ne ovat niin lieviä, ettei henkilö niitä huomaakaan.</p>
+
 							<p>Hermoratahieronnasta on saatu apua mm. seuraaviin jo kehittyneisiin vaivoihin:</p>
+							
+							<ul>
+								<li>allergiat</li>
+								<li>astma</li>
+								<li>diabetes</li>
+							</ul>
+							
 							<p>TÄHÄN LISTA
-								
 							•	allergiat
 							•	astma
 							•	diabetes

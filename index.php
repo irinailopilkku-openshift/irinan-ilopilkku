@@ -153,7 +153,7 @@
 					<div class="col-md-offset-2 col-md-8">
 						<div class="section-heading">
 							<h2>Palvelut</h2>
-							<p>Palvelut tarjolla kotonani Liimattalantiellä Äänekoskella (Torikatu 1 Sammonkadun puolella), Konginkankaan Reimarin Tuvan hoitohuoneella tai kotikäynteinä. Soita ja varaa aikasi! P. 040 415 91 75 Teen töitä sovitusti myös virka-aikojen ulkopuolella.</p>
+							<p>Palvelut tarjolla kotonani Liimattalantiellä, Äänekoskella (Torikatu 1 Sammonkadun puolella), Konginkankaalla Reimarin Tuvan hoitohuoneella tai kotikäynteinä. Soita ja varaa aikasi! P. 040 415 91 75 Teen töitä sovitusti myös virka-aikojen ulkopuolella.</p>
 						</div>
 					</div>
 				</div>

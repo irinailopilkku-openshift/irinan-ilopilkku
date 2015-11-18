@@ -93,7 +93,7 @@
 					<div class="col-xs-12 col-sm-offset-4 col-sm-4 col-md-offset-4 col-md-4 col-lg-offset-4 col-lg-4">
 						<div class="box-team wow bounceInDown" data-wow-delay="0.1s">
 							<h4>Irina Kraft</h4>
-							<p>Yrittäjä / Fysioterapeutti</p>
+							<p>Yrittäjä / Hermoratahieroja, Fysioterapeutti</p>
 						</div>
 					</div>
 					<!--
@@ -153,7 +153,7 @@
 					<div class="col-md-offset-2 col-md-8">
 						<div class="section-heading">
 							<h2>Palvelut</h2>
-							<p>Palvelut tarjolla Konginkankaan Reimarin Tuvan hoitohuoneella, kotonani Liimattalantiellä tai kotikäynteinä. Soita ja varaa aikasi! P. 040 415 91 75 Teen töitä sovitusti myös virka-aikojen ulkopuolella.</p>
+							<p>Palvelut tarjolla kotonani Liimattalantiellä Äänekoskella (Torikatu 1 Sammonkadun puolella), Konginkankaan Reimarin Tuvan hoitohuoneella tai kotikäynteinä. Soita ja varaa aikasi! P. 040 415 91 75 Teen töitä sovitusti myös virka-aikojen ulkopuolella.</p>
 						</div>
 					</div>
 				</div>
@@ -255,6 +255,7 @@
 							<p>
 								Käyntiosoite<br>
 								Liimattalantie 771 B, 44420 Liimattala<br>
+								Torikatu 1 lt 13 (Sammonkadun puoli), 44100 Äänekoski<br>
 								<br>
 								Puhelinnumero<br>
 								040 415 91 75<br>

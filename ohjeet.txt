@@ -17,3 +17,6 @@ muista Ctrl + s !!! perkele!!!
 Sublime Text 2 (t‰ll‰ teet ne muutokset)
 
 index.php (p‰‰sivu)
+
+<!-- About --> T‰ll‰ sai harmaat, jotka ei n‰y sivulla
+<p>Lis‰‰ tietoa tulossa.</p> uusi kappale (enter ei auta)

@@ -362,10 +362,67 @@
 						<ul class="lb-album">
 							<li>
 								<a href="#image-1">
-									<img src="img/view/thumbs/irina_talo.png" alt="">
+									<img src="img/tilat/thumbs/tila1_thumb.png" alt="">
 									<span>+</span>
 								</a>
 								<div class="lb-overlay" id="image-1">
+									<a href="#page" class="lb-close">X Sulje</a>
+									<img src="img/tilat/tila1.jpg" alt="" />
+									<div>
+										<h3>... <span>/.../</h3>
+										<p>...</p>
+									</div>
+								</div>
+							</li>
+							<li>
+								<a href="#image-2">
+									<img src="img/tilat/thumbs/tila2_thumb.png" alt="">
+									<span>+</span>
+								</a>
+								<div class="lb-overlay" id="image-2">
+									<a href="#page" class="lb-close">X Sulje</a>
+									<img src="img/tilat/tila2.jpg" alt="" />
+									<div>
+										<h3>... <span>/.../</h3>
+										<p>...</p>
+									</div>
+								</div>
+							</li>
+							<li>
+								<a href="#image-3">
+									<img src="img/tilat/thumbs/hieronta1_thumb.png" alt="">
+									<span>+</span>
+								</a>
+								<div class="lb-overlay" id="image-3">
+									<a href="#page" class="lb-close">X Sulje</a>
+									<img src="img/tilat/hieronta1.jpg" alt="" />
+									<div>
+										<h3>... <span>/.../</h3>
+										<p>...</p>
+									</div>
+								</div>
+							</li>
+							<li>
+								<a href="#image-4">
+									<img src="img/tilat/thumbs/hieronta2_thumb.png" alt="">
+									<span>+</span>
+								</a>
+								<div class="lb-overlay" id="image-4">
+									<a href="#page" class="lb-close">X Sulje</a>
+									<img src="img/tilat/hieronta2.jpg" alt="" />
+									<div>
+										<h3>... <span>/.../</h3>
+										<p>...</p>
+									</div>
+								</div>
+							</li>
+
+							<li>
+								<a href="#image-5">
+									<img src="img/view/thumbs/irina_talo.png" alt="">
+									<span>+</span>
+								</a>
+								<div class="lb-overlay" id="image-5">
 									<a href="#page" class="lb-close">X Sulje</a>
 									<img src="img/view/irina_talo.jpg" alt="" />
 									<div>
@@ -375,11 +432,11 @@
 								</div>
 							</li>
 							<li>
-								<a href="#image-2">
+								<a href="#image-6">
 									<img src="img/view/thumbs/16101150239_d4d51353b0_o.png" alt="">
 									<span>+</span>
 								</a>
-								<div class="lb-overlay" id="image-2">
+								<div class="lb-overlay" id="image-6">
 									<a href="#page" class="lb-close">X Sulje</a>
 									<img src="img/view/16101150239_d4d51353b0_o.jpg" alt="" />
 									<div>
@@ -389,11 +446,11 @@
 								</div>
 							</li>
 							<li>
-								<a href="#image-3">
+								<a href="#image-7">
 									<img src="img/view/thumbs/massage-389716_1920.png" alt="">
 									<span>+</span>
 								</a>
-								<div class="lb-overlay" id="image-3">
+								<div class="lb-overlay" id="image-7">
 									<a href="#page" class="lb-close">X Sulje</a>
 									<img src="img/view/massage-389716_1920.jpg" alt="" />
 									<div>
@@ -403,11 +460,11 @@
 								</div>
 							</li>
 							<li>
-								<a href="#image-4">
+								<a href="#image-8">
 									<img src="img/view/thumbs/relaxation-684716_1920.png" alt="">
 									<span>+</span>
 								</a>
-								<div class="lb-overlay" id="image-4">
+								<div class="lb-overlay" id="image-8">
 									<a href="#page" class="lb-close">X Sulje</a>
 									<img src="img/view/relaxation-684716_1920.jpg" alt="" />
 									<div>

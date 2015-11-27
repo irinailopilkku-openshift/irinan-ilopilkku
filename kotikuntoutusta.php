@@ -20,11 +20,11 @@
 				<button class="dl-trigger">Open Menu</button>
 				<ul class="dl-menu">
 					<li><a href="index.php">Etusivu</a></li>
-					<li><a href="index.php">Tietoa minusta</a></li>
-					<li><a href="index.php">Palvelut</a></li>
-					<li><a href="index.php">Yhteystiedot</a></li>
+					<!-- <li><a href="index.php">Tietoa minusta</a></li> -->
+					<!-- <li><a href="index.php">Palvelut</a></li> -->
+					<!-- <li><a href="index.php">Yhteystiedot</a></li> -->
 					<!-- <li><a href="#works">Works</a></li> -->
-					<li><a href="index.php">Kuvia</a></li>
+					<!-- <li><a href="index.php">Kuvia</a></li> -->
 					<li>
 						<a href="#">Sivut</a>
 						<ul class="dl-submenu">

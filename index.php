@@ -25,7 +25,7 @@
 					<li><a href="#services">Palvelut</a></li>
 					<li><a href="#contact">Yhteystiedot</a></li>
 					<!-- <li><a href="#works">Works</a></li> -->
-					<li><a href="#works">Fysioterapia</a></li>
+					<li><a href="#works">Kuvia</a></li>
 					<li>
 						<a href="#">Sivut</a>
 						<ul class="dl-submenu">

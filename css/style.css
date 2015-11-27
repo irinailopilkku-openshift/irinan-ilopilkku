@@ -457,7 +457,8 @@ Works
 	top: 43px;
 	left: 50%;
 	
-	font-size: 28px;
+	/* font-size: 28px; */
+	font-size: 24px;
 	line-height: 26px;
 	text-align: center;
 	/*width: 50px;*/

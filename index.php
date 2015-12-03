@@ -266,6 +266,21 @@
 						</div>
 					</div>
 				</div>
+				<!-- fa icons are listed here : http://fontawesome.io/icons/ -->
+				<div class="row">
+					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+						<i class="fa fa-facebook-square"></i>
+					</div>
+					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+						<i class="fa fa-google-plus-square fa-2x"></i>
+					</div>
+					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+						<i class="fa fa-home fa-4x"></i>
+					</div>
+					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+						<i class="fa fa-home fa-4x"></i>
+					</div>
+				</div>
 				<div class="row">
 					<div class="col-md-offset-1 col-md-10">
 						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1835.8110246259082!2d25.7225473162068!3d62.60489298292222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x91097c3d9b6381d3!2sIrinan+Ilopilkku!5e0!3m2!1sen!2sus!4v1448303295751" style="width: inherit;" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>

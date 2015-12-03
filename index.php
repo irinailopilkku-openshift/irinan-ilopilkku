@@ -261,24 +261,30 @@
 								040 415 91 75<br>
 								<br>
 								Sähköposti<br>
-								irinanneli@gmail.com<br>
+								irinanneli@gmail.com
 							</p>
 						</div>
 					</div>
 				</div>
 				<!-- fa icons are listed here : http://fontawesome.io/icons/ -->
-				<div class="row">
+				<div class="row" style="margin-bottom: 50px;">
 					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
-						<i class="fa fa-facebook-square"></i>
+						
 					</div>
 					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
-						<i class="fa fa-google-plus-square fa-2x"></i>
+						<a href="https://www.facebook.com/ilopilkku">
+							<i class="fa fa-facebook-square fa-2x"></i>
+							Facebook
+						</a>
 					</div>
 					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
-						<i class="fa fa-home fa-4x"></i>
+						<a href="https://plus.google.com/+IrinanilopilkkuFi/about">
+							<i class="fa fa-google-plus-square fa-2x"></i>
+							Google+
+						</a>
 					</div>
 					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
-						<i class="fa fa-home fa-4x"></i>
+						
 					</div>
 				</div>
 				<div class="row">

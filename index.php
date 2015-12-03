@@ -278,7 +278,8 @@
 						</a>
 					</div>
 					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
-						<a href="https://plus.google.com/+IrinanilopilkkuFi/about">
+						<!-- <a href="https://plus.google.com/+IrinanilopilkkuFi/about"> -->
+						<a href="https://plus.google.com/+IrinanilopilkkuFi/about?gmbpt=true&hl=fi">
 							<i class="fa fa-google-plus-square fa-2x"></i>
 							Google+
 						</a>

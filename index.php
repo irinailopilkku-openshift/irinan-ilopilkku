@@ -254,8 +254,9 @@
 							<h2>Yhteystiedot</h2>
 							<p>
 								Käyntiosoite<br>
-								Liimattalantie 771 B, 44420 Liimattala<br>
 								Torikatu 1 lt 13 (Sammonkadun puoli), 44100 Äänekoski<br>
+								<br>
+								Liimattalantie 771 B, 44420 Liimattala<br>
 								<br>
 								Puhelinnumero<br>
 								040 415 91 75<br>
@@ -278,8 +279,8 @@
 						</a>
 					</div>
 					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
-						<!-- <a href="https://plus.google.com/+IrinanilopilkkuFi/about"> -->
-						<a href="https://plus.google.com/+IrinanilopilkkuFi/about?gmbpt=true&hl=fi">
+						<a href="https://plus.google.com/+IrinanilopilkkuFi/about">
+						<!-- <a href="https://plus.google.com/+IrinanilopilkkuFi/about?gmbpt=true&hl=fi"> -->
 							<i class="fa fa-google-plus-square fa-2x"></i>
 							Google+
 						</a>

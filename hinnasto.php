@@ -56,15 +56,15 @@
 
 							<div>
 								<table style="width:100%;">
-									<tr style="height: 40px;">
+									<tr>
 										<th>Tuote</th>
 										<th>Hinta</th>
 									</tr>
-									<tr style="height: 40px;">
+									<tr>
 										<td>hieronta</td> 
 										<td>123 €</td>
 									</tr>
-									<tr style="height: 40px;">
+									<tr>
 										<td>sldkfäö-emfmöäem</td> 
 										<td>94 €</td>
 									</tr>

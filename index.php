@@ -4,7 +4,10 @@
 		<title>Irinan ilopilkku</title>
 		<meta charset="utf-8">
 		<meta name="keywords" content="Hermoratahieronta,hermoratahieroja,hieroja,klassinen hieronta,kuntoutus,kotikuntoutus,yksilöllinen liikunnanohjaus,yksilöllinen,liikunnanohjaus,jumppaohje, jumppaohjeet,paras,toimintakyky,ylläpitäminen,kohentaminen. palvelut,palvelu,Konginkankaan,Konginkangas,Äänekoski,Liimattala,Reimarin Tuvan hoitohuoneella,Riemari,Reimarin tupa,lahjakortti,Reimarintupa,koti,kotiin,kotona,Liimattalantiellä,Liimattalantie,kotikäynteinä,kotikäyntinä,kotikäynti Viitasaari">
-		<meta name="description" content="Hermoratahieronta hieroja klassinen hieronta kuntoutus kotikuntoutus yksilöllinen liikunnanohjaus toimintakyvyn ylläpitämiseksi ja kohentamiseksi. Palvelut tarjolla Konginkangas Äänekoski Reimarin Tuvan hoitohuoneella Riemarin tupa Liimattalantie kotikäynti Viitasaari">
+		
+		<!--<meta name="description" content="Hermoratahieronta hieroja klassinen hieronta kuntoutus kotikuntoutus yksilöllinen liikunnanohjaus toimintakyvyn ylläpitämiseksi ja kohentamiseksi. Palvelut tarjolla Konginkangas Äänekoski Reimarin Tuvan hoitohuoneella Riemarin tupa Liimattalantie kotikäynti Viitasaari">-->
+		<meta name="description" content="Hermoratahieronta, klassinen hieronta ja fysioterapia. Luen lisää ja varaa aikasi!">
+
 		<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
 		<!-- icon -->
 		<link rel="icon" href="img/icon_irina.png" type="image/x-icon" />
@@ -71,11 +74,19 @@
 					<div class="row">
 						<div class="col-md-12">
 							<div class="brand">
-								<h1><a href="/" style="color: black; font-size: xx-large;">
-									Irinan Ilopilkku</a></h1>
-								<div class="line-spacer"></div>
 								<p><span style="color: black;">Fysioterapia</span></p>
 								<p><span style="color: black;">Hieronta, hermoratahieronta</span></p>
+								<div class="line-spacer"></div>
+								<h1><a href="/" style="color: black; font-size: xx-large;">
+									Irinan Ilopilkku</a></h1>
+								<!--<div class="col-xs-12 col-sm-offset-4 col-sm-4 col-md-offset-4 col-md-4 col-lg-offset-4 col-lg-4">-->
+								<div class="col-xs-12 col-sm-offset-3 col-sm-6 col-md-offset-3 col-md-6 col-lg-offset-3 col-lg-6">
+									<p><span style="color: black; font-size: 14px;">
+										<br/>
+										<br/>
+										"Hartiat jumissa ja päätä särkee... Kiireesi keskellä helpotan kireyksiä klassisella hieronnalla tain tuon kokonaisvaltaista apua vaivoihin hermoratahieronnalla. Muista, että sinulla on lupa pitää huolta itsestäsi."
+									</span></p>
+								</div>
 							</div>
 						</div>
 					</div>

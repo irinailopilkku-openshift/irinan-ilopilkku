@@ -243,11 +243,11 @@ Intro
 .intro-text {
 	position:relative;
 	width:100%;
-	margin-top:200px;
+	margin-top:180px; /* muutettu 2018-04-01*/
 	z-index:1000;
 }
 #intro .brand {
-	margin-top: 40px;
+	margin-top: 0px; /* muutettu 2018-04-01*/
 }
 .intro-text h1 a {
 	color:#fff;

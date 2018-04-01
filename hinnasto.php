@@ -51,24 +51,72 @@
 					<!-- <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12"> -->
 					<div class="col-xs-12 col-sm-offset-1 col-sm-10 col-md-offset-1 col-md-10 col-lg-offset-1 col-lg-10">
 						<div class="box-team">
-							<!-- <h4>Lisää tietoa tulossa.</h4> -->
-							<!-- tähän alapuolelle sisältöteksti -->
-
 							<div>
+
+								<h3 style="text-align: left;">Hieronta</h3>
 								<table style="width:100%;">
 									<tr>
-										<th>Tuote</th>
-										<th>Hinta</th>
+										<td>45 min</td> 
+										<td>38 €</td>
 									</tr>
 									<tr>
-										<td>hieronta</td> 
-										<td>123 €</td>
+										<td>60 min</td> 
+										<td>47 €</td>
 									</tr>
 									<tr>
-										<td>sldkfäö-emfmöäem</td> 
-										<td>94 €</td>
+										<td>75 min</td> 
+										<td>55 €</td>
 									</tr>
-								</table>							
+									<tr>
+										<td>90 min</td> 
+										<td>63 €</td>
+									</tr>
+									<tr>
+										<td>105 min</td> 
+										<td>70 €</td>
+									</tr>
+									<tr>
+										<td>120 min</td> 
+										<td>77 €</td>
+									</tr>
+									<tr>
+										<td></td> 
+										<td></td>
+									</tr>
+								</table>
+
+								<h3 style="text-align: left;">Hermoratahieronta</h3>
+								<table style="width:100%;">
+									<tr>
+										<td>1,5-2h</td> 
+										<td>75 €</td>
+									</tr>
+									<tr>
+										<td></td> 
+										<td></td>
+									</tr>
+								</table>
+
+								<h3 style="text-align: left;">Fysioterapia lääkärin lähetteellä</h3>
+								<h4 style="text-align: left;">(Kelakorvaus vähennetty hinnasta)</h4>
+								<table style="width:100%;">
+									<tr>
+										<td>30 min</td> 
+										<td>28 €</td>
+									</tr>
+									<tr>
+										<td>45 min</td> 
+										<td>32 €</td>
+									</tr>
+									<tr>
+										<td>60 min</td> 
+										<td>39 €</td>
+									</tr>
+									<tr>
+										<td></td> 
+										<td></td>
+									</tr>
+								</table>
 							</div>
 						</div>
 					</div>

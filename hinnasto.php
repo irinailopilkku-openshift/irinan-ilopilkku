@@ -1,9 +1,10 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
-	<head>
+	<head> <!-- test -->
 		<title>Irinan ilopilkku</title>
 		<meta charset="utf-8">
-		<meta name="description" content="Irinan Ilopilkku hieronta palvelu yritys . Hermoratahierontaa ( opiskelijatyönä ), klassista hierontaa sekä kotikuntoutusta : yksilöllistä liikunnanohjausta toimintakyvyn ylläpitämiseksi ja kohentamiseksi. Palvelut tarjolla Konginkankaan Reimarin Tuvan hoitohuoneella, kotonani Liimattalantiellä tai kotikäynteinä .">
+		<meta name="keywords" content="Hermoratahieronta,hermoratahieroja,hieroja,klassinen hieronta,kuntoutus,kotikuntoutus,yksilöllinen liikunnanohjaus,yksilöllinen,liikunnanohjaus,jumppaohje, jumppaohjeet,paras,toimintakyky,ylläpitäminen,kohentaminen. palvelut,palvelu,Konginkankaan,Konginkangas,Äänekoski,Liimattala,Reimarin Tuvan hoitohuoneella,Riemari,Reimarin tupa,lahjakortti,Reimarintupa,koti,kotiin,kotona,Liimattalantiellä,Liimattalantie,kotikäynteinä,kotikäyntinä,kotikäynti Viitasaari">
+		<meta name="description" content="Hermoratahieronta hieroja klassinen hieronta kuntoutus kotikuntoutus yksilöllinen liikunnanohjaus toimintakyvyn ylläpitämiseksi ja kohentamiseksi. Palvelut tarjolla Konginkangas Äänekoski Reimarin Tuvan hoitohuoneella Riemarin tupa Liimattalantie kotikäynti Viitasaari">
 		<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
 		<!-- icon -->
 		<link rel="icon" href="img/icon_irina.png" type="image/x-icon" />
@@ -20,11 +21,6 @@
 				<button class="dl-trigger">Open Menu</button>
 				<ul class="dl-menu">
 					<li><a href="index.php">Etusivu</a></li>
-					<!-- <li><a href="index.php">Tietoa minusta</a></li> -->
-					<!-- <li><a href="index.php">Palvelut</a></li> -->
-					<!-- <li><a href="index.php">Yhteystiedot</a></li> -->
-					<!-- <li><a href="#works">Works</a></li> -->
-					<!-- <li><a href="index.php">Kuvia</a></li> -->
 					<li>
 						<a href="#">Sivut</a>
 						<ul class="dl-submenu">
@@ -47,17 +43,33 @@
 				<div class="row">
 					<div class="col-md-offset-2 col-md-8">
 						<div class="section-heading">
-							<h2>Fysioterapia</h2>
-							<!-- <p>Tarjoamme hieronta palveluja.</p> -->
+							<h2>Hinnasto</h2>
 						</div>
 					</div>
 				</div>
 				<div class="row">
 					<!-- <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12"> -->
-					<div class="col-xs-12 col-sm-offset-2 col-sm-8 col-md-offset-2 col-md-8 col-lg-offset-2 col-lg-8">
+					<div class="col-xs-12 col-sm-offset-1 col-sm-10 col-md-offset-1 col-md-10 col-lg-offset-1 col-lg-10">
 						<div class="box-team">
-							<h4>Lisää tietoa tulossa.</h4>
-							<p>Lisää tietoa tulossa.</p>
+							<!-- <h4>Lisää tietoa tulossa.</h4> -->
+							<!-- tähän alapuolelle sisältöteksti -->
+
+							<div>
+								<table style="width:100%;">
+									<tr style="height: 40px;">
+										<th>Tuote</th>
+										<th>Hinta</th>
+									</tr>
+									<tr style="height: 40px;">
+										<td>hieronta</td> 
+										<td>123 €</td>
+									</tr>
+									<tr style="height: 40px;">
+										<td>sldkfäö-emfmöäem</td> 
+										<td>94 €</td>
+									</tr>
+								</table>							
+							</div>
 						</div>
 					</div>
 				</div>
@@ -94,7 +106,7 @@
 
 			})(jQuery);
 		</script>
-
+		
 		<!-- google analytics -->
 		<script>
 			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -105,6 +117,5 @@
 			ga('create', 'UA-68045710-1', 'auto');
 			ga('send', 'pageview');
 		</script>
-
 	</body>
 </html>

@@ -7,6 +7,31 @@ Imports
 @import url('dlmenu.css');
 @import url('animate.css');
 
+
+/* 
+	Omat
+*/
+/* 
+	Added 2018-04-01
+*/
+th {
+	text-align: left;
+}
+/* 
+	Added 2018-04-01
+*/
+td {
+	text-align: left;
+}
+/* 
+	Added 2018-04-01
+*/
+tr {
+	height: 40px;
+	font-size: 30px;
+}
+
+
 /* ================================
 General
 ================================= */

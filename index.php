@@ -55,8 +55,9 @@
 							<li><a href="hermoratahierontaa.php">Hermoratahierontaa</a></li>
 							<li><a href="klassinen_hieronta.php">Klassinen Hieronta</a></li>
 							<!-- <li><a href="#">Sub menu</a></li> -->
-							<li><a href="kotikuntoutusta.php">Kotikuntoutus</a></li>
+							<!--<li><a href="kotikuntoutusta.php">Kotikuntoutusta</a></li>-->
 							<li><a href="fysioterapia.php">Fysioterapia</a></li>
+							<li><a href="hinnasto.php">Hinnasto</a></li>
 						</ul>
 					</li>
 				</ul>
@@ -228,6 +229,7 @@
 							<a class="btn btn-primary" href="klassinen_hieronta.php">Lisää tietoa</a>
 						</div>
 					</div>
+					<!--
 					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3" data-wow-delay="0.3s">
 						<div class="service-box wow bounceInDown" data-wow-delay="0.1s">
 							<i class="fa fa-home fa-4x"></i>
@@ -236,12 +238,20 @@
 							<a class="btn btn-primary" href="kotikuntoutusta.php">Lisää tietoa</a>
 						</div>
 					</div>
+					-->
 					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3" data-wow-delay="0.3s">
 						<div class="service-box wow bounceInDown" data-wow-delay="0.1s">
 							<i class="fa fa-home fa-4x"></i>
 							<h4>Fysioterapia</h4>
 							<p>Fysioterapia myös lääkärin lähetteellä</p>
 							<a class="btn btn-primary" href="fysioterapia.php">Lisää tietoa</a>
+						</div>
+					</div>
+					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3" data-wow-delay="0.3s">
+						<div class="service-box wow bounceInDown" data-wow-delay="0.1s">
+							<i class="fa fa-home fa-4x"></i>
+							<h4>Hinnasto</h4>
+							<a class="btn btn-primary" href="hinnasto.php">Lisää tietoa</a>
 						</div>
 					</div>
 					<!--

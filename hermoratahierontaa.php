@@ -33,8 +33,9 @@
 						<ul class="dl-submenu">
 							<li><a href="hermoratahierontaa.php">Hermoratahierontaa</a></li>
 							<li><a href="klassinen_hieronta.php">Klassinen Hieronta</a></li>
-							<li><a href="kotikuntoutusta.php">Kotikuntoutusta</a></li>
+							<!--<li><a href="kotikuntoutusta.php">Kotikuntoutusta</a></li>-->
 							<li><a href="fysioterapia.php">Fysioterapia</a></li>
+							<li><a href="hinnasto.php">Hinnasto</a></li>
 						</ul>
 					</li>
 				</ul>

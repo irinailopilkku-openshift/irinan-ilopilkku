@@ -3,7 +3,7 @@
 	<head> <!-- test -->
 		<title>Irinan ilopilkku</title>
 		<meta charset="utf-8">
-		<meta name="description" content="Irinan Ilopilkku hieronta palvelu yritys . Hermoratahierontaa ( opiskelijatyönä ), klassista hierontaa sekä kotikuntoutusta : yksilöllistä liikunnanohjausta toimintakyvyn ylläpitämiseksi ja kohentamiseksi. Palvelut tarjolla Konginkankaan Reimarin Tuvan hoitohuoneella, kotonani Liimattalantiellä tai kotikäynteinä .">
+		<meta name="description" content="Hermoratahieronta, klassinen hieronta ja fysioterapia. Luen lisää ja varaa aikasi!">
 		<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
 		<!-- icon -->
 		<link rel="icon" href="img/icon_irina.png" type="image/x-icon" />
@@ -51,8 +51,10 @@
 					<!-- <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12"> -->
 					<div class="col-xs-12 col-sm-offset-2 col-sm-8 col-md-offset-2 col-md-8 col-lg-offset-2 col-lg-8">
 						<div class="box-team">
-							<h4>Lisää tietoa tulossa.</h4>
-							<p>Lisää tietoa tulossa.</p>
+							<!--<h4>Lisää tietoa tulossa.</h4>-->
+							<p>Kela korvaa osan fysioterapiasta, mikäli olet saanut lääkärin allekirjoittaman fysioterapialähetteen ja sinulla on voimassa oleva kela-kortti. 
+								Käytössä on suorakorvausmenettely, jollin korvausta ei tarvitse hakea itse, vaan se on vähennetty suoraan <a href="hinnasto.php">fysioterapian hinnoista</a>. 
+								Lääkärin lähete on voimssa vuoden kirjoituspäivästä alkaen. </p>
 						</div>
 					</div>
 				</div>

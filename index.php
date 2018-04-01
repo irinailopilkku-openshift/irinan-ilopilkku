@@ -16,6 +16,29 @@
 		<script src="js/modernizr.custom.js"></script>
 	</head>
 	<body>
+
+		<!-- 
+			https://developers.facebook.com/docs/plugins/page-plugin/
+			
+			https://blog.hootsuite.com/steps-to-create-a-facebook-business-page/
+
+			Embedded facebook test. Init code. This is Facebook SDK for JavaScript ??? 
+
+			js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.12'; // Production
+			js.src = "https://connect.facebook.net/en_US/sdk/debug.js"; // Debug
+		
+		<div id="fb-root"></div>
+		<script>
+		(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.12';
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+		-->
+
+
 		<div class="menu-area">
 			<div id="dl-menu" class="dl-menuwrapper">
 				<button class="dl-trigger">Open Menu</button>
@@ -62,6 +85,36 @@
 		<!-- About -->
 		<section id="about" class="home-section bg-white">
 			<div class="container">
+				<!--
+				<div class="row">
+					<div class="col-md-offset-2 col-md-8">
+
+						 Embedded facebook test. With IFrame.
+						<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Ffi-fi.facebook.com%2Filopilkku%2F&tabs=timeline&width=400&height=300&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" 
+							width="400" height="300" style="border:none;overflow:hidden" 
+							scrolling="no" frameborder="0" allowTransparency="true">
+						</iframe>
+
+						 Embedded facebook test. With Facebook SDK 
+						<div class="fb-page" data-href="https://fi-fi.facebook.com/ilopilkku/" 
+							data-tabs="timeline" data-width="400" data-height="300" 
+							data-small-header="false" data-adapt-container-width="true" 
+							data-hide-cover="false" data-show-facepile="true">
+						</div>
+
+						
+							https://www.facebook.com/hootsuite
+							Embedded facebook test. With Facebook SDK 
+						<div class="fb-page" data-href="https://www.facebook.com/hootsuite" 
+							data-tabs="timeline" data-width="400" data-height="300" 
+							data-small-header="false" data-adapt-container-width="true" 
+							data-hide-cover="false" data-show-facepile="true">
+						</div>
+
+					</div>
+				</div>
+				-->
+
 				<!-- Guide: http://getbootstrap.com/css/ -->
 				<div class="row">
 					<div class="col-md-offset-2 col-md-8">

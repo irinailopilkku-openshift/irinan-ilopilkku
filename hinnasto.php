@@ -3,8 +3,8 @@
 	<head> <!-- test -->
 		<title>Irinan ilopilkku</title>
 		<meta charset="utf-8">
-		<meta name="keywords" content="Hermoratahieronta,hermoratahieroja,hieroja,klassinen hieronta,kuntoutus,kotikuntoutus,yksilöllinen liikunnanohjaus,yksilöllinen,liikunnanohjaus,jumppaohje, jumppaohjeet,paras,toimintakyky,ylläpitäminen,kohentaminen. palvelut,palvelu,Konginkankaan,Konginkangas,Äänekoski,Liimattala,Reimarin Tuvan hoitohuoneella,Riemari,Reimarin tupa,lahjakortti,Reimarintupa,koti,kotiin,kotona,Liimattalantiellä,Liimattalantie,kotikäynteinä,kotikäyntinä,kotikäynti Viitasaari">
-		<meta name="description" content="Hermoratahieronta hieroja klassinen hieronta kuntoutus kotikuntoutus yksilöllinen liikunnanohjaus toimintakyvyn ylläpitämiseksi ja kohentamiseksi. Palvelut tarjolla Konginkangas Äänekoski Reimarin Tuvan hoitohuoneella Riemarin tupa Liimattalantie kotikäynti Viitasaari">
+		<meta name="keywords" content="Hinnasto">
+		<meta name="description" content="Hermoratahieronta, klassinen hieronta ja fysioterapia. Luen lisää ja varaa aikasi!">
 		<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
 		<!-- icon -->
 		<link rel="icon" href="img/icon_irina.png" type="image/x-icon" />

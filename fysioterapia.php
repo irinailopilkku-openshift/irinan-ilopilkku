@@ -1,6 +1,6 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
-	<head>
+	<head> <!-- test -->
 		<title>Irinan ilopilkku</title>
 		<meta charset="utf-8">
 		<meta name="description" content="Irinan Ilopilkku hieronta palvelu yritys . Hermoratahierontaa ( opiskelijatyönä ), klassista hierontaa sekä kotikuntoutusta : yksilöllistä liikunnanohjausta toimintakyvyn ylläpitämiseksi ja kohentamiseksi. Palvelut tarjolla Konginkankaan Reimarin Tuvan hoitohuoneella, kotonani Liimattalantiellä tai kotikäynteinä .">
@@ -20,11 +20,6 @@
 				<button class="dl-trigger">Open Menu</button>
 				<ul class="dl-menu">
 					<li><a href="index.php">Etusivu</a></li>
-					<!-- <li><a href="index.php">Tietoa minusta</a></li> -->
-					<!-- <li><a href="index.php">Palvelut</a></li> -->
-					<!-- <li><a href="index.php">Yhteystiedot</a></li> -->
-					<!-- <li><a href="#works">Works</a></li> -->
-					<!-- <li><a href="index.php">Kuvia</a></li> -->
 					<li>
 						<a href="#">Sivut</a>
 						<ul class="dl-submenu">

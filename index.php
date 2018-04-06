@@ -457,6 +457,79 @@
 				<div class="row">
 					<div class="col-md-offset-2 col-md-8">
 						<ul class="lb-album">
+							
+							<li>
+								<a href="#image-tila-1">
+									<img src="img/tilat/thumbs/tila-2018-04-06_1_thumb.png" alt="">
+									<span>+</span>
+								</a>
+								<div class="lb-overlay" id="image-tila-1">
+									<a href="#page" class="lb-close">X Sulje</a>
+									<img src="img/tilat/tila-2018-04-06_1.jpeg" alt="" />
+									<div>
+										<h3>... <span>/.../</h3>
+										<p>...</p>
+									</div>
+								</div>
+							</li>
+							<li>
+								<a href="#image-tila-2">
+									<img src="img/tilat/thumbs/tila-2018-04-06_2_thumb.png" alt="">
+									<span>+</span>
+								</a>
+								<div class="lb-overlay" id="image-tila-2">
+									<a href="#page" class="lb-close">X Sulje</a>
+									<img src="img/tilat/tila-2018-04-06_2.jpeg" alt="" />
+									<div>
+										<h3>... <span>/.../</h3>
+										<p>...</p>
+									</div>
+								</div>
+							</li>
+							<li>
+								<a href="#image-tila-3">
+									<img src="img/tilat/thumbs/tila-2018-04-06_3_thumb.png" alt="">
+									<span>+</span>
+								</a>
+								<div class="lb-overlay" id="image-tila-3">
+									<a href="#page" class="lb-close">X Sulje</a>
+									<img src="img/tilat/tila-2018-04-06_3.jpeg" alt="" />
+									<div>
+										<h3>... <span>/.../</h3>
+										<p>...</p>
+									</div>
+								</div>
+							</li>
+							<li>
+								<a href="#image-tila-4">
+									<img src="img/tilat/thumbs/tila-2018-04-06_4_thumb.png" alt="">
+									<span>+</span>
+								</a>
+								<div class="lb-overlay" id="image-tila-4">
+									<a href="#page" class="lb-close">X Sulje</a>
+									<img src="img/tilat/tila-2018-04-06_4.jpeg" alt="" />
+									<div>
+										<h3>... <span>/.../</h3>
+										<p>...</p>
+									</div>
+								</div>
+							</li>
+							<li>
+								<a href="#image-tila-5">
+									<img src="img/tilat/thumbs/tila-2018-04-06_5_thumb.png" alt="">
+									<span>+</span>
+								</a>
+								<div class="lb-overlay" id="image-tila-5">
+									<a href="#page" class="lb-close">X Sulje</a>
+									<img src="img/tilat/tila-2018-04-06_5.jpeg" alt="" />
+									<div>
+										<h3>... <span>/.../</h3>
+										<p>...</p>
+									</div>
+								</div>
+							</li>
+
+							<!--
 							<li>
 								<a href="#image-1">
 									<img src="img/tilat/thumbs/tila1_thumb.png" alt="">
@@ -513,6 +586,7 @@
 									</div>
 								</div>
 							</li>
+						-->
 
 							<li>
 								<a href="#image-5">

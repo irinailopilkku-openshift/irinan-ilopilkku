@@ -53,7 +53,7 @@
 						<div class="box-team">
 							<!--<h4>Lisää tietoa tulossa.</h4>-->
 							<p>Kela korvaa osan fysioterapiasta, mikäli olet saanut lääkärin allekirjoittaman fysioterapialähetteen ja sinulla on voimassa oleva kela-kortti. 
-								Käytössä on suorakorvausmenettely, jollin korvausta ei tarvitse hakea itse, vaan se on vähennetty suoraan <a href="hinnasto.php">fysioterapian hinnoista</a>. 
+								Käytössä on suorakorvausmenettely, jolloin korvausta ei tarvitse hakea itse, vaan se on vähennetty suoraan <a href="hinnasto.php">fysioterapian hinnoista</a>. 
 								Lääkärin lähete on voimssa vuoden kirjoituspäivästä alkaen. </p>
 						</div>
 					</div>

@@ -74,12 +74,13 @@
 					<div class="row">
 						<div class="col-md-12">
 							<div class="brand">
+								<!--<div class="col-xs-12 col-sm-offset-4 col-sm-4 col-md-offset-4 col-md-4 col-lg-offset-4 col-lg-4">-->
+								<!--
 								<p><span style="color: black;">Fysioterapia</span></p>
 								<p><span style="color: black;">Hieronta, hermoratahieronta</span></p>
 								<div class="line-spacer"></div>
 								<h1><a href="/" style="color: black; font-size: xx-large;">
 									Irinan Ilopilkku</a></h1>
-								<!--<div class="col-xs-12 col-sm-offset-4 col-sm-4 col-md-offset-4 col-md-4 col-lg-offset-4 col-lg-4">-->
 								<div class="col-xs-12 col-sm-offset-3 col-sm-6 col-md-offset-3 col-md-6 col-lg-offset-3 col-lg-6">
 									<p><span style="color: black; font-size: 14px;">
 										<br/>
@@ -87,6 +88,7 @@
 										"Hartiat jumissa ja päätä särkee... Kiireesi keskellä helpotan kireyksiä klassisella hieronnalla tain tuon kokonaisvaltaista apua vaivoihin hermoratahieronnalla. Muista, että sinulla on lupa pitää huolta itsestäsi."
 									</span></p>
 								</div>
+								-->
 							</div>
 						</div>
 					</div>

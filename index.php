@@ -47,6 +47,8 @@
 				<button class="dl-trigger">Open Menu</button>
 				<ul class="dl-menu">
 					<li><a href="#intro">Etusivu</a></li>
+					<li><a href="#reserve">Varaa aikaa</a></li>
+
 					<li><a href="#about">Tietoa minusta</a></li>
 					<li><a href="#services">Palvelut</a></li>
 					<li><a href="#contact">Yhteystiedot</a></li>
@@ -95,6 +97,22 @@
 				</div>
 			</div>
 		</div>
+
+		<!-- Reserve -->
+		<section id="reserve" class="home-section bg-white">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-offset-2 col-md-8">
+						<p>
+							Varaa aika: <br>
+							<br>
+							Puhelinnumero<br>
+							040 415 91 75<br>
+						<p>
+					</div>
+				</div>
+			</div>
+		</section>
 
 		<!-- About -->
 		<section id="about" class="home-section bg-white">
@@ -159,6 +177,7 @@
 			<!--	<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3"> -->
 					<div class="col-xs-12 col-sm-offset-4 col-sm-4 col-md-offset-4 col-md-4 col-lg-offset-4 col-lg-4">
 						<div class="box-team wow bounceInDown" data-wow-delay="0.1s">
+							<img src="img/irina-2018.jpeg" alt="" class="img-responsive" />
 							<h4>Irina Kraft</h4>
 							<p>Yrittäjä / Hermoratahieroja, Fysioterapeutti</p>
 						</div>

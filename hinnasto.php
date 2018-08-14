@@ -85,18 +85,6 @@
 									</tr>
 								</table>
 
-								<h3 style="text-align: left;">Hermoratahieronta</h3>
-								<table style="width:100%;">
-									<tr>
-										<td>1,5-2h</td> 
-										<td>75 €</td>
-									</tr>
-									<tr>
-										<td></td> 
-										<td></td>
-									</tr>
-								</table>
-
 								<h3 style="text-align: left;">Fysioterapia lääkärin lähetteellä</h3>
 								<h4 style="text-align: left;">(Kelakorvaus vähennetty hinnasta)</h4>
 								<table style="width:100%;">
@@ -117,6 +105,35 @@
 										<td></td>
 									</tr>
 								</table>
+
+								<h3 style="text-align: left;">Kuumakivihieronta</h3>
+								<table style="width:100%;">
+									<tr>
+										<td>puolivartalo</td> 
+										<td>42 €</td>
+									</tr>
+									<tr>
+										<td>kokovartalo</td> 
+										<td>69 €</td>
+									</tr>
+									<tr>
+										<td></td> 
+										<td></td>
+									</tr>
+								</table>
+
+								<h3 style="text-align: left;">Hermoratahieronta</h3>
+								<table style="width:100%;">
+									<tr>
+										<td>1,5-2h</td> 
+										<td>75 €</td>
+									</tr>
+									<tr>
+										<td></td> 
+										<td></td>
+									</tr>
+								</table>
+
 							</div>
 						</div>
 					</div>

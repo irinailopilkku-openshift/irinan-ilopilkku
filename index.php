@@ -103,11 +103,24 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-2 col-md-8">
+						<!--
 						<p>
 							Varaa aika: <br>
 							<br>
 							Puhelinnumero<br>
 							040 415 91 75<br>
+						<p>
+						-->
+						<div>Varaa aika netistä</div>
+						<div>
+							<iframe id="timma" width="100%" frameborder="0" 
+								src="https://timma.fi/reservation/irinanilopilkku"></iframe>
+						</div>
+						<p>
+							<span style=" font-size: 1.25em;">Soita, jos et löydä sopivaa aikaa tai haluat kotikäynnin:</span><br>
+							<br>
+							Puhelinnumero<br>
+							<span style=" font-size: 2em;">040 415 91 75</span><br>
 						<p>
 					</div>
 				</div>
@@ -802,8 +815,12 @@
 		<script src="js/jquery.smooth-scroll.min.js"></script>
 		<script src="js/jquery.dlmenu.js"></script>
 		<script src="js/wow.min.js"></script>
+		<script src="js/iframeResizer.min.js"></script>
 		<script src="js/custom.js"></script>
 
+		<!-- timma.fi
+		<script type="text/javascript">iFrameResize({checkOrigin: false});</script>
+		-->
 		<!-- google analytics -->
 		<script>
 			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

@@ -810,13 +810,13 @@
 		</footer>
 
 		<!-- js -->
-		<script src="js/jquery.js"></script>
-		<script src="js/bootstrap.min.js"></script>
-		<script src="js/jquery.smooth-scroll.min.js"></script>
-		<script src="js/jquery.dlmenu.js"></script>
-		<script src="js/wow.min.js"></script>
-		<script src="js/iframeResizer.min.js"></script>
-		<script src="js/custom.js"></script>
+		<script src="js/jquery.js?v1"></script>
+		<script src="js/bootstrap.min.js?v1"></script>
+		<script src="js/jquery.smooth-scroll.min.js?v1"></script>
+		<script src="js/jquery.dlmenu.js?v1"></script>
+		<script src="js/wow.min.js?v1"></script>
+		<script src="js/iframeResizer.min.js?v1"></script>
+		<script src="js/custom.js?v1"></script>
 
 		<!-- timma.fi
 		<script type="text/javascript">iFrameResize({checkOrigin: false});</script>

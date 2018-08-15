@@ -117,7 +117,7 @@
 								src="https://timma.fi/reservation/irinanilopilkku"></iframe>
 						</div>
 						<p>
-							<span style=" font-size: 1.25em;">Soita, jos et löydä sopivaa aikaa tai haluat kotikäynnin:</span><br>
+							<!--<span style=" font-size: 1.25em;">Soita, jos et löydä sopivaa aikaa tai haluat kotikäynnin:</span><br>-->
 							<br>
 							Puhelinnumero<br>
 							<span style=" font-size: 2em;">040 415 91 75</span><br>

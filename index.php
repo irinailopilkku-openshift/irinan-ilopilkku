@@ -364,8 +364,8 @@
 								Käyntiosoite<br>
 								Torikatu 1 lt 13 (Sammonkadun puoli), 44100 Äänekoski<br>
 								<br>
-								Liimattalantie 771 B, 44420 Liimattala<br>
-								<br>
+								<!-- Liimattalantie 771 B, 44420 Liimattala<br>
+								<br> -->
 								Puhelinnumero<br>
 								040 415 91 75<br>
 								<br>
@@ -402,13 +402,14 @@
 						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1835.8110246259082!2d25.7225473162068!3d62.60489298292222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x91097c3d9b6381d3!2sIrinan+Ilopilkku!5e0!3m2!1sen!2sus!4v1448303295751" style="width: inherit;" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 					</div>
 				</div>
+				<!--
 				<div class="row">
 					<div class="col-md-offset-1 col-md-10">
-						<!--
+						!--
 						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1829.9478065999808!2d25.830559200000014!3d62.69968629999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4685acda359d1529%3A0x4f4e0beb128c9a97!2sLiimattalantie+771!5e0!3m2!1sfi!2sfi!4v1432546992599" width="600" height="450" frameborder="0" style="border:0"></iframe><br>
-						-->
+						--
 						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1829.948877108334!2d25.831841!3d62.69966900000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNjLCsDQxJzU4LjgiTiAyNcKwNDknNTQuNiJF!5e0!3m2!1sfi!2sfi!4v1432547292009" style="width: inherit;" height="450" frameborder="0" style="border:0"></iframe>
-						<!--
+						<--
 						<form class="form-horizontal" role="form">
 							<div class="form-group">
 								<div class="col-md-offset-2 col-md-8">
@@ -436,9 +437,10 @@
 								</div>
 							</div>
 						</form>
-						-->
+						--
 					</div>
 				</div>
+				-->
 				<div class="row mar-top30 ">
 					<div class="col-md-offset-2 col-md-8">
 						<!--
@@ -620,8 +622,8 @@
 									</div>
 								</div>
 							</li>
-						-->
-
+							-->
+							<!--
 							<li>
 								<a href="#image-5">
 									<img src="img/view/thumbs/irina_talo.png" alt="">
@@ -636,6 +638,7 @@
 									</div>
 								</div>
 							</li>
+							§-->
 							<li>
 								<a href="#image-6">
 									<img src="img/view/thumbs/16101150239_d4d51353b0_o.png" alt="">

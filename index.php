@@ -110,8 +110,9 @@
 							Puhelinnumero<br>
 							040 415 91 75<br>
 						<p>
-						-->
 						<div>Varaa aika netistä</div>
+						-->
+						<div>Nettiajanvaraus</div>
 						<div>
 							<iframe id="timma" width="100%" frameborder="0" 
 								src="https://timma.fi/reservation/irinanilopilkku"></iframe>

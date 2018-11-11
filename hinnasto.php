@@ -55,31 +55,70 @@
 
 								<h3 style="text-align: left;">Hieronta</h3>
 								<table style="width:100%;">
-									<tr>
+									<tr class="price">
+										<td>30 min</td> 
+										<td>32 €</td>
+									</tr>
+									<tr class="price-extra">
+										<td colspan="2">
+											Esim. yläraajojen hieronta, niska-hartiaseudun nopeampi hieronta
+										</td> 
+									</tr>
+									<tr class="price">
 										<td>45 min</td> 
 										<td>38 €</td>
 									</tr>
-									<tr>
+									<tr class="price-extra">
+										<td colspan="2">
+											Esim. niskahartiaseudun ja yläselän hieronta tai pakaroiden ja keski-selän hieronta
+										</td> 
+									</tr>
+									<tr class="price">
 										<td>60 min</td> 
 										<td>47 €</td>
 									</tr>
-									<tr>
+									<tr class="price-extra">
+										<td colspan="2">
+											Esim. koko selän ja niska-hartiaseudun tai alaraajojen ja pakaroiden hieronta
+										</td> 
+									</tr>
+									<tr class="price">
 										<td>75 min</td> 
 										<td>55 €</td>
 									</tr>
-									<tr>
+									<tr class="price-extra">
+										<td colspan="2">
+											Esim. ylävartalon hieronta tai alavartalon hieronta.
+										</td> 
+									</tr>
+									<tr class="price">
 										<td>90 min</td> 
 										<td>63 €</td>
 									</tr>
-									<tr>
+									<tr class="price-extra">
+										<td colspan="2">
+											Esim. kokovartalohieronta: alaraajat, selkä ja niska-hartiaseutu
+										</td> 
+									</tr>
+									<tr class="price">
 										<td>105 min</td> 
 										<td>70 €</td>
 									</tr>
-									<tr>
+									<tr class="price-extra">
+										<td colspan="2">
+											Esim. kokovartalohieronta: alaraajat, selkä, niska-hartiaseutu ja rintalihakset
+										</td> 
+									</tr>
+									<tr class="price">
 										<td>120 min</td> 
 										<td>77 €</td>
 									</tr>
-									<tr>
+									<tr class="price-extra">
+										<td colspan="2">
+											Kokovartalon perusteellinen hieronta
+										</td> 
+									</tr>
+									<tr class="price">
 										<td></td> 
 										<td></td>
 									</tr>
@@ -88,19 +127,19 @@
 								<h3 style="text-align: left;">Fysioterapia lääkärin lähetteellä</h3>
 								<h4 style="text-align: left;">(Kelakorvaus vähennetty hinnasta)</h4>
 								<table style="width:100%;">
-									<tr>
+									<tr class="price">
 										<td>30 min</td> 
 										<td>28 €</td>
 									</tr>
-									<tr>
+									<tr class="price">
 										<td>45 min</td> 
 										<td>32 €</td>
 									</tr>
-									<tr>
+									<tr class="price">
 										<td>60 min</td> 
 										<td>39 €</td>
 									</tr>
-									<tr>
+									<tr class="price">
 										<td></td> 
 										<td></td>
 									</tr>
@@ -108,15 +147,15 @@
 
 								<h3 style="text-align: left;">Kuumakivihieronta</h3>
 								<table style="width:100%;">
-									<tr>
+									<tr class="price">
 										<td>puolivartalo</td> 
 										<td>42 €</td>
 									</tr>
-									<tr>
+									<tr class="price">
 										<td>kokovartalo</td> 
 										<td>69 €</td>
 									</tr>
-									<tr>
+									<tr class="price">
 										<td></td> 
 										<td></td>
 									</tr>
@@ -124,11 +163,11 @@
 
 								<h3 style="text-align: left;">Hermoratahieronta</h3>
 								<table style="width:100%;">
-									<tr>
+									<tr class="price">
 										<td>1,5-2h</td> 
 										<td>75 €</td>
 									</tr>
-									<tr>
+									<tr class="price">
 										<td></td> 
 										<td></td>
 									</tr>

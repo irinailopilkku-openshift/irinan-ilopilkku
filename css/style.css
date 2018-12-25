@@ -208,18 +208,22 @@ Spacer
 
 #spacer1{
 	/*background-image: url(../img/spacer/1.jpg);*/
-	background-image: url(../img/view/relaxation-684716_1920.jpg);
+	/*background-image: url(../img/view/relaxation-684716_1920.jpg);*/
+	background-image: url(../img/uudet/vali1_shrink.jpg);
 	background-repeat: no-repeat;
 	/*background-position: center -238px;*/
-	background-position: center -150px;
+	/*background-position: center -150px;*/
+	background-position: center 0px;
 	background-size: 85% auto;
 }
 #spacer2{	
 	/*background-image: url(../img/spacer/2.jpg);*/
-	background-image: url(../img/view/massage-389716_1920.jpg);
+	/*background-image: url(../img/view/massage-389716_1920.jpg);*/
+	background-image: url(../img/uudet/vali2_shrink.jpg);
 	background-repeat: no-repeat;
 	/*background-position: center -570px;*/
-	background-position: center -200px;
+	/*background-position: center -200px;*/
+	background-position: center 0px;
 	background-size: 85% auto;
 }
 

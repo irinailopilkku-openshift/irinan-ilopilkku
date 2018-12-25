@@ -497,6 +497,20 @@
 						<ul class="lb-album">
 							
 							<li>
+								<a href="#image-ovi">
+									<img src="img/uudet/thumbs/ovi_thumb.jpg" alt="">
+									<span>+</span>
+								</a>
+								<div class="lb-overlay" id="image-ovi">
+									<a href="#page" class="lb-close">X Sulje</a>
+									<img src="img/uudet/ovi.jpg" alt="" />
+									<div>
+										<h3>... <span>/.../</h3>
+										<p>...</p>
+									</div>
+								</div>
+							</li>
+							<li>
 								<a href="#image-tila-1">
 									<img src="img/tilat/thumbs/tila-2018-04-06_1_thumb.png" alt="">
 									<span>+</span>
@@ -526,18 +540,21 @@
 							</li>
 							<li>
 								<a href="#image-tila-3">
-									<img src="img/tilat/thumbs/tila-2018-04-06_3_thumb.png" alt="">
+									<!-- <img src="img/tilat/thumbs/tila-2018-04-06_3_thumb.png" alt=""> -->
+									<img src="img/uudet/thumbs/tila3_thumb.jpg" alt="">
 									<span>+</span>
 								</a>
 								<div class="lb-overlay" id="image-tila-3">
 									<a href="#page" class="lb-close">X Sulje</a>
-									<img src="img/tilat/tila-2018-04-06_3.jpeg" alt="" />
+									<!-- <img src="img/tilat/tila-2018-04-06_3.jpeg" alt="" /> -->
+									<img src="img/uudet/tila3.jpg" alt="" />
 									<div>
 										<h3>... <span>/.../</h3>
 										<p>...</p>
 									</div>
 								</div>
 							</li>
+							<!--
 							<li>
 								<a href="#image-tila-4">
 									<img src="img/tilat/thumbs/tila-2018-04-06_4_thumb.png" alt="">
@@ -552,14 +569,17 @@
 									</div>
 								</div>
 							</li>
+							-->
 							<li>
 								<a href="#image-tila-5">
-									<img src="img/tilat/thumbs/tila-2018-04-06_5_thumb.png" alt="">
+									<!-- <img src="img/tilat/thumbs/tila-2018-04-06_5_thumb.png" alt=""> -->
+									<img src="img/uudet/thumbs/tila2_thumb.jpg" alt="">
 									<span>+</span>
 								</a>
 								<div class="lb-overlay" id="image-tila-5">
 									<a href="#page" class="lb-close">X Sulje</a>
-									<img src="img/tilat/tila-2018-04-06_5.jpeg" alt="" />
+									<!-- <img src="img/tilat/tila-2018-04-06_5.jpeg" alt="" /> -->
+									<img src="img/uudet/tila2.jpg" alt="" />
 									<div>
 										<h3>... <span>/.../</h3>
 										<p>...</p>
@@ -640,7 +660,8 @@
 									</div>
 								</div>
 							</li>
-							§-->
+							-->
+							<!--
 							<li>
 								<a href="#image-6">
 									<img src="img/view/thumbs/16101150239_d4d51353b0_o.png" alt="">
@@ -655,6 +676,8 @@
 									</div>
 								</div>
 							</li>
+							-->
+							<!--
 							<li>
 								<a href="#image-7">
 									<img src="img/view/thumbs/massage-389716_1920.png" alt="">
@@ -669,6 +692,8 @@
 									</div>
 								</div>
 							</li>
+							-->
+							<!--
 							<li>
 								<a href="#image-8">
 									<img src="img/view/thumbs/relaxation-684716_1920.png" alt="">
@@ -683,6 +708,7 @@
 									</div>
 								</div>
 							</li>
+							-->
 							<!--
 							<li>
 								<a href="#image-1">

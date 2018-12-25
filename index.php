@@ -54,6 +54,7 @@
 					<li><a href="#contact">Yhteystiedot</a></li>
 					<!-- <li><a href="#works">Works</a></li> -->
 					<li><a href="#works">Kuvia</a></li>
+					<li><a href="#hinnasto">Hinnasto</a></li>
 					<li>
 						<a href="#">Sivut</a>
 						<ul class="dl-submenu">
@@ -62,7 +63,7 @@
 							<!-- <li><a href="#">Sub menu</a></li> -->
 							<!--<li><a href="kotikuntoutusta.php">Kotikuntoutusta</a></li>-->
 							<li><a href="fysioterapia.php">Fysioterapia</a></li>
-							<li><a href="hinnasto.php">Hinnasto</a></li>
+							<!-- <li><a href="hinnasto.php">Hinnasto</a></li> -->
 						</ul>
 					</li>
 				</ul>
@@ -260,7 +261,7 @@
 				</div>
 				<!-- fa icons are listed here : http://fontawesome.io/icons/ -->
 				<div class="row">
-					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+					<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
 						<div class="service-box wow bounceInDown" data-wow-delay="0.1s">
 							<i class="fa fa-star-half-o fa-4x"></i>
 							<h4>Hermoratahierontaa</h4>
@@ -268,7 +269,7 @@
 							<a class="btn btn-primary" href="hermoratahierontaa.php">Lisää tietoa</a>
 						</div>
 					</div>
-					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3" data-wow-delay="0.3s">
+					<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4" data-wow-delay="0.3s">
 						<div class="service-box wow bounceInDown" data-wow-delay="0.1s">
 							<i class="fa fa-star fa-4x"></i>
 							<h4>Klassista hierontaa</h4>
@@ -286,7 +287,7 @@
 						</div>
 					</div>
 					-->
-					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3" data-wow-delay="0.3s">
+					<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4" data-wow-delay="0.3s">
 						<div class="service-box wow bounceInDown" data-wow-delay="0.1s">
 							<i class="fa fa-home fa-4x"></i>
 							<h4>Fysioterapia</h4>
@@ -294,6 +295,7 @@
 							<a class="btn btn-primary" href="fysioterapia.php">Lisää tietoa</a>
 						</div>
 					</div>
+					<!--
 					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3" data-wow-delay="0.3s">
 						<div class="service-box wow bounceInDown" data-wow-delay="0.1s">
 							<i class="fa fa-home fa-4x"></i>
@@ -301,6 +303,7 @@
 							<a class="btn btn-primary" href="hinnasto.php">Lisää tietoa</a>
 						</div>
 					</div>
+					-->
 					<!--
 					<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
 						<div class="service-box wow bounceInDown" data-wow-delay="0.1s">
@@ -824,6 +827,150 @@
 							</li>
 							-->
 						</ul>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<!-- Hinnasto -->
+		<section id="hinnasto" class="home-section bg-white">
+			<div class="container">
+				<!-- Guide: http://getbootstrap.com/css/ -->
+				<div class="row">
+					<div class="col-md-offset-2 col-md-8">
+						<div class="section-heading">
+							<h2>Hinnasto</h2>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<!-- <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12"> -->
+					<div class="col-xs-12 col-sm-offset-1 col-sm-10 col-md-offset-1 col-md-10 col-lg-offset-1 col-lg-10">
+						<div class="box-team">
+							<div>
+
+								<h3 style="text-align: left;">Hieronta</h3>
+								<table style="width:100%;">
+									<tr class="price">
+										<td>30 min</td> 
+										<td>32 €</td>
+									</tr>
+									<tr class="price-extra">
+										<td colspan="2">
+											Esim. yläraajojen hieronta, niska-hartiaseudun nopeampi hieronta
+										</td> 
+									</tr>
+									<tr class="price">
+										<td>45 min</td> 
+										<td>38 €</td>
+									</tr>
+									<tr class="price-extra">
+										<td colspan="2">
+											Esim. niskahartiaseudun ja yläselän hieronta tai pakaroiden ja keski-selän hieronta
+										</td> 
+									</tr>
+									<tr class="price">
+										<td>60 min</td> 
+										<td>47 €</td>
+									</tr>
+									<tr class="price-extra">
+										<td colspan="2">
+											Esim. koko selän ja niska-hartiaseudun tai alaraajojen ja pakaroiden hieronta
+										</td> 
+									</tr>
+									<tr class="price">
+										<td>75 min</td> 
+										<td>55 €</td>
+									</tr>
+									<tr class="price-extra">
+										<td colspan="2">
+											Esim. ylävartalon hieronta tai alavartalon hieronta.
+										</td> 
+									</tr>
+									<tr class="price">
+										<td>90 min</td> 
+										<td>63 €</td>
+									</tr>
+									<tr class="price-extra">
+										<td colspan="2">
+											Esim. kokovartalohieronta: alaraajat, selkä ja niska-hartiaseutu
+										</td> 
+									</tr>
+									<tr class="price">
+										<td>105 min</td> 
+										<td>70 €</td>
+									</tr>
+									<tr class="price-extra">
+										<td colspan="2">
+											Esim. kokovartalohieronta: alaraajat, selkä, niska-hartiaseutu ja rintalihakset
+										</td> 
+									</tr>
+									<tr class="price">
+										<td>120 min</td> 
+										<td>77 €</td>
+									</tr>
+									<tr class="price-extra">
+										<td colspan="2">
+											Kokovartalon perusteellinen hieronta
+										</td> 
+									</tr>
+									<tr class="price">
+										<td></td> 
+										<td></td>
+									</tr>
+								</table>
+
+								<h3 style="text-align: left;">Fysioterapia lääkärin lähetteellä</h3>
+								<h4 style="text-align: left;">(Kelakorvaus vähennetty hinnasta)</h4>
+								<table style="width:100%;">
+									<tr class="price">
+										<td>30 min</td> 
+										<td>28 €</td>
+									</tr>
+									<tr class="price">
+										<td>45 min</td> 
+										<td>32 €</td>
+									</tr>
+									<tr class="price">
+										<td>60 min</td> 
+										<td>39 €</td>
+									</tr>
+									<tr class="price">
+										<td></td> 
+										<td></td>
+									</tr>
+								</table>
+
+								<h3 style="text-align: left;">Kuumakivihieronta</h3>
+								<table style="width:100%;">
+									<tr class="price">
+										<td>puolivartalo</td> 
+										<td>42 €</td>
+									</tr>
+									<tr class="price">
+										<td>kokovartalo</td> 
+										<td>69 €</td>
+									</tr>
+									<tr class="price">
+										<td></td> 
+										<td></td>
+									</tr>
+								</table>
+
+								<h3 style="text-align: left;">Hermoratahieronta</h3>
+								<table style="width:100%;">
+									<tr class="price">
+										<td>1,5-2h</td> 
+										<td>75 €</td>
+									</tr>
+									<tr class="price">
+										<td></td> 
+										<td></td>
+									</tr>
+								</table>
+
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>

@@ -260,7 +260,7 @@
 						<div class="section-heading">
 							<h2>Palvelut</h2>
 							<!-- <p>Palvelut tarjolla kotonani Liimattalantiellä, Äänekoskella (Torikatu 1 Sammonkadun puolella), Konginkankaalla Reimarin Tuvan hoitohuoneella tai kotikäynteinä. Soita ja varaa aikasi! P. 040 415 91 75 Teen töitä sovitusti myös virka-aikojen ulkopuolella.</p> -->
-							<p>Palvelut tarjolla Äänekoskella (Torikatu 1 Sammonkadun puolella), Konginkankaalla Reimarin Tuvan hoitohuoneella tai kotikäynteinä. Soita ja varaa aikasi! P. 040 415 91 75 Teen töitä sovitusti myös virka-aikojen ulkopuolella.</p>
+							<p>Palvelut tarjolla Äänekoskella (Torikatu 1 Sammonkadun puolella) tai kotikäynteinä. Soita ja varaa aikasi! P. 040 415 91 75 Teen töitä sovitusti myös virka-aikojen ulkopuolella.</p>
 						</div>
 					</div>
 				</div>
@@ -862,7 +862,7 @@
 									</tr>
 									<tr class="price-extra">
 										<td colspan="2">
-											Esim. yläraajojen hieronta, niska-hartiaseudun nopeampi hieronta
+											Esim. yläraajojen hieronta tai niska-hartiaseudun nopeampi hieronta
 										</td> 
 									</tr>
 									<tr class="price">

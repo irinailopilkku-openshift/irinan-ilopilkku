@@ -597,6 +597,23 @@
 									</div>
 								</div>
 							</li>
+							
+							<!-- img/irina-2018.jpeg -->
+							<li>
+								<a href="#image-tila-6">
+									<img src="img/irina-2018.jpeg" alt="" width="116" height ="150">
+									<span>+</span>
+								</a>
+								<div class="lb-overlay" id="image-tila-6">
+									<a href="#page" class="lb-close">X Sulje</a>
+									<img src="img/irina-2018.jpeg" alt="" />
+									<div>
+										<h3>... <span>/.../</h3>
+										<p>...</p>
+									</div>
+								</div>
+							</li>
+							
 
 							<!--
 							<li>

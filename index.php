@@ -390,25 +390,25 @@
 				</div>
 				<!-- fa icons are listed here : http://fontawesome.io/icons/ -->
 				<div class="row" style="margin-bottom: 50px;">
-					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+					<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
 						
 					</div>
-					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+					<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
 						<a href="https://www.facebook.com/ilopilkku">
 							<i class="fa fa-facebook-square fa-2x"></i>
 							Facebook
 						</a>
 					</div>
+					<!--
 					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
 						<a href="https://plus.google.com/+IrinanilopilkkuFi/about">
-						<!-- <a href="https://plus.google.com/+IrinanilopilkkuFi/about?gmbpt=true&hl=fi"> -->
+						! <a href="https://plus.google.com/+IrinanilopilkkuFi/about?gmbpt=true&hl=fi"> 
 							<i class="fa fa-google-plus-square fa-2x"></i>
 							Google+
 						</a>
 					</div>
-					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
-						
-					</div>
+					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3"></div>
+					-->
 				</div>
 				<div class="row">
 					<div class="col-md-offset-1 col-md-10">

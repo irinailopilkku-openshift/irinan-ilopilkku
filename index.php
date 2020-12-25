@@ -197,7 +197,7 @@
 			<!--	<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3"> -->
 					<div class="col-xs-12 col-sm-offset-4 col-sm-4 col-md-offset-4 col-md-4 col-lg-offset-4 col-lg-4">
 						<div class="box-team wow bounceInDown" data-wow-delay="0.1s">
-							<img src="img/irina-2020.jpeg" alt="" class="img-responsive" />
+							<img src="img/irina-2020.jpg" alt="" class="img-responsive" />
 							<!--
 							<img src="img/irina-2018.jpeg" alt="" class="img-responsive" />
 							-->

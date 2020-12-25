@@ -10,7 +10,7 @@
 
 		<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
 		<!-- icon -->
-		<link rel="icon" href="img/icon_irina.png" type="image/x-icon" />
+		<link rel="icon" href="img/icon_irina_new.png" type="image/x-icon" />
 		<!-- css -->
 		<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
 		<link href="css/style.css" rel="stylesheet" media="screen">

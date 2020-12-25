@@ -115,8 +115,13 @@
 						-->
 						<div>Nettiajanvaraus</div>
 						<div>
+							<iframe width="100%" frameborder="0" 
+								src="https://varaa.timma.fi/reservation/irinanilopilkku" 
+								id="reservationIframe30786"></iframe>
+							<!--
 							<iframe id="timma" width="100%" frameborder="0" 
 								src="https://timma.fi/reservation/irinanilopilkku"></iframe>
+							-->
 						</div>
 						<p>
 							<!--<span style=" font-size: 1.25em;">Soita, jos et löydä sopivaa aikaa tai haluat kotikäynnin:</span><br>-->
@@ -993,8 +998,12 @@
 		<script src="js/jquery.smooth-scroll.min.js?v1"></script>
 		<script src="js/jquery.dlmenu.js?v1"></script>
 		<script src="js/wow.min.js?v1"></script>
+		<!--
 		<script src="js/iframeResizer.min.js?v1"></script>
 		<script src="js/custom.js?v1"></script>
+		-->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/2.8.3/iframeResizer.min.js"></script>
+		<script type="text/javascript">iFrameResize({checkOrigin: false}, '#reservationIframe30786');</script>
 
 		<!-- timma.fi
 		<script type="text/javascript">iFrameResize({checkOrigin: false});</script>

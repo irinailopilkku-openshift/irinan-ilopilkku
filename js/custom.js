@@ -12,6 +12,6 @@
 	-->
 	$('iframe').iFrameResize( [{options}] );
 	*/
-	$('iframe#timma').iFrameResize( {checkOrigin: false} );
+	//$('iframe#timma').iFrameResize( {checkOrigin: false} );
 
 })(jQuery);

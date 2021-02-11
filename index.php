@@ -1018,9 +1018,9 @@
 		<script src="js/jquery.smooth-scroll.min.js?v1"></script>
 		<script src="js/jquery.dlmenu.js?v1"></script>
 		<script src="js/wow.min.js?v1"></script>
+		<script src="js/custom.js?v2"></script>
 		<!--
 		<script src="js/iframeResizer.min.js?v1"></script>
-		<script src="js/custom.js?v1"></script>
 		-->
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/2.8.3/iframeResizer.min.js"></script>
 		<script type="text/javascript">iFrameResize({checkOrigin: false}, '#reservationIframe30786');</script>

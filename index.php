@@ -113,6 +113,13 @@
 						<p>
 						<div>Varaa aika netistä</div>
 						-->
+						<p>Tällä hetkellä ei aikoja ole tarjolla, eli ajanvaraus ja kalenteri ei ole rikki! Nopeat liikkeet ovat näyttäviä, sanotaan. Eli vauhdikkaiden päätösten jälkeen lähden nyt vuoden loppuun asti kokeilemaan työskentelyä ihan toisella alalla. Toivottelen siis tässä kohtaa mukavaa alkutalvea kaikille teille ihanille! ❤️ Irina</p>
+						<!--
+						<p>PS: Jos sinulla on lahjakortti käyttämättä, ota yhteyttä, niin sovitaan miten toimitaan 😊</p>
+						-->
+						<p>PS: Jos sinulla on lahjakortti käyttämättä, laita viestiä (WhatsApp, tekstari tai <a href="mailto:irinanneli@gmail.com">irinanneli@gmail.com</a>), niin sovitaan miten toimitaan 😊</p>
+						<br>
+						<br>
 						<div>Nettiajanvaraus</div>
 						<div>
 							<iframe width="100%" frameborder="0" 

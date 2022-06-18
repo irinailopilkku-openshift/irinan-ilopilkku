@@ -41,7 +41,7 @@
 		}(document, 'script', 'facebook-jssdk'));</script>
 		-->
 
-
+		<!--
 		<div class="menu-area">
 			<div id="dl-menu" class="dl-menuwrapper">
 				<button class="dl-trigger">Open Menu</button>
@@ -52,7 +52,6 @@
 					<li><a href="#about">Tietoa minusta</a></li>
 					<li><a href="#services">Palvelut</a></li>
 					<li><a href="#contact">Yhteystiedot</a></li>
-					<!-- <li><a href="#works">Works</a></li> -->
 					<li><a href="#works">Kuvia</a></li>
 					<li><a href="#hinnasto">Hinnasto</a></li>
 					<li>
@@ -60,15 +59,13 @@
 						<ul class="dl-submenu">
 							<li><a href="hermoratahierontaa.php">Hermoratahierontaa</a></li>
 							<li><a href="klassinen_hieronta.php">Klassinen Hieronta</a></li>
-							<!-- <li><a href="#">Sub menu</a></li> -->
-							<!--<li><a href="kotikuntoutusta.php">Kotikuntoutusta</a></li>-->
 							<li><a href="fysioterapia.php">Fysioterapia</a></li>
-							<!-- <li><a href="hinnasto.php">Hinnasto</a></li> -->
 						</ul>
 					</li>
 				</ul>
-			</div><!-- /dl-menuwrapper -->
+			</div>
 		</div>
+		-->
 
 		<!-- intro area -->	  
 		<div id="intro">
@@ -104,6 +101,19 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-2 col-md-8">
+						<p>
+						Tuli aika kiittää kaikkia teitä ihania asiakkaita ja yhteistyökumppaneita seitsemän vuoden ajalta! Toitte niin paljon iloa ja mukavia hetkiä elämääni. 
+						<br>Kaunis kiitos siis jokaiselle yhdessä ja erikseen ❤️
+						</p>
+						<p>
+						Ranteet päättivät, että minun oli aika siirtyä kevyempiin tehtäviin ja haikein mielin pistin yrityseni ovet säppiin. 
+						</p>
+						<p>
+						Hymyillään kun muualla kohdataan! 😊
+						</p>
+						<p>
+						❤️ Irina
+						</p>
 						<!--
 						<p>
 							Varaa aika: <br>
@@ -113,29 +123,48 @@
 						<p>
 						<div>Varaa aika netistä</div>
 						-->
-						<p>Tällä hetkellä ei aikoja ole tarjolla, eli ajanvaraus ja kalenteri ei ole rikki! Nopeat liikkeet ovat näyttäviä, sanotaan. Eli vauhdikkaiden päätösten jälkeen lähden nyt vuoden loppuun asti kokeilemaan työskentelyä ihan toisella alalla. Toivottelen siis tässä kohtaa mukavaa alkutalvea kaikille teille ihanille! ❤️ Irina</p>
+						<!--
+						<p>
+						Tällä hetkellä ei aikoja ole tarjolla, eli ajanvaraus ja kalenteri ei ole rikki! 
+						Nopeat liikkeet ovat näyttäviä, sanotaan. 
+						Eli vauhdikkaiden päätösten jälkeen lähden nyt vuoden loppuun asti kokeilemaan työskentelyä ihan toisella alalla. 
+						Toivottelen siis tässä kohtaa mukavaa alkutalvea kaikille teille ihanille! ❤️ Irina
+						</p>
+						-->
 						<!--
 						<p>PS: Jos sinulla on lahjakortti käyttämättä, ota yhteyttä, niin sovitaan miten toimitaan 😊</p>
 						-->
-						<p>PS: Jos sinulla on lahjakortti käyttämättä, laita viestiä (WhatsApp, tekstari tai <a href="mailto:irinanneli@gmail.com">irinanneli@gmail.com</a>), niin sovitaan miten toimitaan 😊</p>
+						<!--
+						<p>
+						PS: Jos sinulla on lahjakortti käyttämättä, 
+						laita viestiä (WhatsApp, tekstari tai 
+						<a href="mailto:irinanneli@gmail.com">irinanneli@gmail.com</a>), 
+						niin sovitaan miten toimitaan 😊
+						</p>
+						-->
+						<!--
 						<br>
 						<br>
 						<div>Nettiajanvaraus</div>
+						-->
 						<div>
+							<!--
 							<iframe width="100%" frameborder="0" 
 								src="https://varaa.timma.fi/reservation/irinanilopilkku" 
 								id="reservationIframe30786"></iframe>
+							-->
 							<!--
 							<iframe id="timma" width="100%" frameborder="0" 
 								src="https://timma.fi/reservation/irinanilopilkku"></iframe>
 							-->
 						</div>
+						<!--
 						<p>
-							<!--<span style=" font-size: 1.25em;">Soita, jos et löydä sopivaa aikaa tai haluat kotikäynnin:</span><br>-->
 							<br>
 							Puhelinnumero<br>
 							<span style=" font-size: 2em;">040 415 91 75</span><br>
 						<p>
+						-->
 					</div>
 				</div>
 			</div>
@@ -178,6 +207,7 @@
 				<div class="row">
 					<div class="col-md-offset-2 col-md-8">
 						<div class="section-heading">
+							<!--
 							<h3>Hermoratahieronnalla apua moniin vaivoihin</h3>
 							<div class="col-xs-12 col-sm-offset-3 col-sm-6 col-md-offset-3 col-md-6 col-lg-offset-3 col-lg-6">
 								<ul class="lista">
@@ -189,6 +219,7 @@
 									<li>Aineenvaihdunta ja hormonihäiriöt</li>
 								</ul>
 							</div>
+							-->
 							<!-- <p>- Tuki- ja liikuntaelinten vaivat, kuten niska-hartiaseudun vaivat
 								- Kivut, säryt ja tulehdukset
 								- Migreeni, reuma, astma
@@ -196,22 +227,22 @@
 								- Ruoansulatus- ja imeytyshäiriöt
 								- Aineenvaihdunta ja hormonihäiriöt
 							</p> -->
+							<!--
 							<h4 style="display: inline-block;">Klassista hierontaa ja fysioterapiaa helpottamaan lihaskiristyksiä ja jomotusta</h4>
+							-->
 						</div>
 					</div>
 				</div>
 				<div class="row">
-			<!--	<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3"> -->
+					<!--
 					<div class="col-xs-12 col-sm-offset-4 col-sm-4 col-md-offset-4 col-md-4 col-lg-offset-4 col-lg-4">
 						<div class="box-team wow bounceInDown" data-wow-delay="0.1s">
 							<img src="img/irina-2020.jpg" alt="" class="img-responsive" />
-							<!--
-							<img src="img/irina-2018.jpeg" alt="" class="img-responsive" />
-							-->
 							<h4>Irina Kraft</h4>
 							<p>Yrittäjä / Hermoratahieroja, Fysioterapeutti</p>
 						</div>
 					</div>
+					-->
 					<!--
 					<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
 						<div class="box-team wow bounceInDown" data-wow-delay="0.1s">
@@ -266,21 +297,22 @@
 		<section id="services" class="home-section bg-white">
 			<div class="container">
 				<div class="row">
+					<!--
 					<div class="col-md-offset-2 col-md-8">
 						<div class="section-heading">
 							<h2>Palvelut</h2>
-							<!-- <p>Palvelut tarjolla kotonani Liimattalantiellä, Äänekoskella (Torikatu 1 Sammonkadun puolella), Konginkankaalla Reimarin Tuvan hoitohuoneella tai kotikäynteinä. Soita ja varaa aikasi! P. 040 415 91 75 Teen töitä sovitusti myös virka-aikojen ulkopuolella.</p> -->
 							<p>Palvelut tarjolla Äänekoskella (Torikatu 1 Sammonkadun puolella) tai kotikäynteinä. Soita ja varaa aikasi! P. 040 415 91 75 Teen töitä sovitusti myös virka-aikojen ulkopuolella.</p>
 						</div>
 					</div>
+					-->
 				</div>
 				<!-- fa icons are listed here : http://fontawesome.io/icons/ -->
 				<div class="row">
+					<!--
 					<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
 						<div class="service-box wow bounceInDown" data-wow-delay="0.1s">
 							<i class="fa fa-star-half-o fa-4x"></i>
 							<h4>Hermoratahierontaa</h4>
-							<!-- <p>(opiskelijatyönä)</p> -->
 							<a class="btn btn-primary" href="hermoratahierontaa.php">Lisää tietoa</a>
 						</div>
 					</div>
@@ -292,6 +324,7 @@
 							<a class="btn btn-primary" href="klassinen_hieronta.php">Lisää tietoa</a>
 						</div>
 					</div>
+					-->
 					<!--
 					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3" data-wow-delay="0.3s">
 						<div class="service-box wow bounceInDown" data-wow-delay="0.1s">
@@ -302,6 +335,7 @@
 						</div>
 					</div>
 					-->
+					<!--
 					<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4" data-wow-delay="0.3s">
 						<div class="service-box wow bounceInDown" data-wow-delay="0.1s">
 							<i class="fa fa-home fa-4x"></i>
@@ -310,6 +344,7 @@
 							<a class="btn btn-primary" href="fysioterapia.php">Lisää tietoa</a>
 						</div>
 					</div>
+					-->
 					<!--
 					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3" data-wow-delay="0.3s">
 						<div class="service-box wow bounceInDown" data-wow-delay="0.1s">
@@ -377,6 +412,7 @@
 		<section id="contact" class="home-section bg-white">
 			<div class="container">
 				<div class="row">
+					<!--
 					<div class="col-md-offset-2 col-md-8">
 						<div class="section-heading">
 							<h2>Yhteystiedot</h2>
@@ -384,8 +420,6 @@
 								Käyntiosoite<br>
 								Torikatu 1 lt 13 (Sammonkadun puoli), 44100 Äänekoski<br>
 								<br>
-								<!-- Liimattalantie 771 B, 44420 Liimattala<br>
-								<br> -->
 								Puhelinnumero<br>
 								040 415 91 75<br>
 								<br>
@@ -394,9 +428,11 @@
 							</p>
 						</div>
 					</div>
+					-->
 				</div>
 				<!-- fa icons are listed here : http://fontawesome.io/icons/ -->
 				<div class="row" style="margin-bottom: 50px;">
+					<!--
 					<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
 						
 					</div>
@@ -406,6 +442,7 @@
 							Facebook
 						</a>
 					</div>
+					-->
 					<!--
 					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
 						<a href="https://plus.google.com/+IrinanilopilkkuFi/about">
@@ -418,9 +455,11 @@
 					-->
 				</div>
 				<div class="row">
+					<!--
 					<div class="col-md-offset-1 col-md-10">
 						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1835.8110246259082!2d25.7225473162068!3d62.60489298292222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x91097c3d9b6381d3!2sIrinan+Ilopilkku!5e0!3m2!1sen!2sus!4v1448303295751" style="width: inherit;" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 					</div>
+					-->
 				</div>
 				<!--
 				<div class="row">
@@ -501,17 +540,17 @@
 		<section id="works" class="home-section bg-gray">
 			<div class="container">
 				<div class="row">
+					<!--
 					<div class="col-md-offset-2 col-md-8">
 						<div class="section-heading">
 							<h2>Kuvia</h2>
-							<!--
-							<p>Dicunt tamquam dissentiet vix ex, ne mei dico reformidans, accumsan gloriatur necessitatibus eu sit.</p>
-							-->
 						</div>
 					</div>
+					-->
 				</div>
 				<div class="row">
 					<div class="col-md-offset-2 col-md-8">
+						<!--
 						<ul class="lb-album">
 							
 							<li>
@@ -558,13 +597,11 @@
 							</li>
 							<li>
 								<a href="#image-tila-3">
-									<!-- <img src="img/tilat/thumbs/tila-2018-04-06_3_thumb.png" alt=""> -->
 									<img src="img/uudet/thumbs/tila3_thumb.jpg" alt="">
 									<span>+</span>
 								</a>
 								<div class="lb-overlay" id="image-tila-3">
 									<a href="#page" class="lb-close">X Sulje</a>
-									<!-- <img src="img/tilat/tila-2018-04-06_3.jpeg" alt="" /> -->
 									<img src="img/uudet/tila3.jpg" alt="" />
 									<div>
 										<h3>... <span>/.../</h3>
@@ -572,31 +609,13 @@
 									</div>
 								</div>
 							</li>
-							<!--
-							<li>
-								<a href="#image-tila-4">
-									<img src="img/tilat/thumbs/tila-2018-04-06_4_thumb.png" alt="">
-									<span>+</span>
-								</a>
-								<div class="lb-overlay" id="image-tila-4">
-									<a href="#page" class="lb-close">X Sulje</a>
-									<img src="img/tilat/tila-2018-04-06_4.jpeg" alt="" />
-									<div>
-										<h3>... <span>/.../</h3>
-										<p>...</p>
-									</div>
-								</div>
-							</li>
-							-->
 							<li>
 								<a href="#image-tila-5">
-									<!-- <img src="img/tilat/thumbs/tila-2018-04-06_5_thumb.png" alt=""> -->
 									<img src="img/uudet/thumbs/tila2_thumb.jpg" alt="">
 									<span>+</span>
 								</a>
 								<div class="lb-overlay" id="image-tila-5">
 									<a href="#page" class="lb-close">X Sulje</a>
-									<!-- <img src="img/tilat/tila-2018-04-06_5.jpeg" alt="" /> -->
 									<img src="img/uudet/tila2.jpg" alt="" />
 									<div>
 										<h3>... <span>/.../</h3>
@@ -605,7 +624,6 @@
 								</div>
 							</li>
 							
-							<!-- img/irina-2018.jpeg -->
 							<li>
 								<a href="#image-tila-6">
 									<img src="img/irina-2018.jpeg" alt="" width="116" height ="150">
@@ -620,245 +638,8 @@
 									</div>
 								</div>
 							</li>
-							
-
-							<!--
-							<li>
-								<a href="#image-1">
-									<img src="img/tilat/thumbs/tila1_thumb.png" alt="">
-									<span>+</span>
-								</a>
-								<div class="lb-overlay" id="image-1">
-									<a href="#page" class="lb-close">X Sulje</a>
-									<img src="img/tilat/tila1.jpg" alt="" />
-									<div>
-										<h3>... <span>/.../</h3>
-										<p>...</p>
-									</div>
-								</div>
-							</li>
-							<li>
-								<a href="#image-2">
-									<img src="img/tilat/thumbs/tila2_thumb.png" alt="">
-									<span>+</span>
-								</a>
-								<div class="lb-overlay" id="image-2">
-									<a href="#page" class="lb-close">X Sulje</a>
-									<img src="img/tilat/tila2.jpg" alt="" />
-									<div>
-										<h3>... <span>/.../</h3>
-										<p>...</p>
-									</div>
-								</div>
-							</li>
-							<li>
-								<a href="#image-3">
-									<img src="img/tilat/thumbs/hieronta1_thumb.png" alt="">
-									<span>+</span>
-								</a>
-								<div class="lb-overlay" id="image-3">
-									<a href="#page" class="lb-close">X Sulje</a>
-									<img src="img/tilat/hieronta1.jpg" alt="" />
-									<div>
-										<h3>... <span>/.../</h3>
-										<p>...</p>
-									</div>
-								</div>
-							</li>
-							<li>
-								<a href="#image-4">
-									<img src="img/tilat/thumbs/hieronta2_thumb.png" alt="">
-									<span>+</span>
-								</a>
-								<div class="lb-overlay" id="image-4">
-									<a href="#page" class="lb-close">X Sulje</a>
-									<img src="img/tilat/hieronta2.jpg" alt="" />
-									<div>
-										<h3>... <span>/.../</h3>
-										<p>...</p>
-									</div>
-								</div>
-							</li>
-							-->
-							<!--
-							<li>
-								<a href="#image-5">
-									<img src="img/view/thumbs/irina_talo.png" alt="">
-									<span>+</span>
-								</a>
-								<div class="lb-overlay" id="image-5">
-									<a href="#page" class="lb-close">X Sulje</a>
-									<img src="img/view/irina_talo.jpg" alt="" />
-									<div>
-										<h3>Käyntiosoite <span>/Kotini/</h3>
-										<p>Liimattalantie 771 B, 44420 Liimattala</p>
-									</div>
-								</div>
-							</li>
-							-->
-							<!--
-							<li>
-								<a href="#image-6">
-									<img src="img/view/thumbs/16101150239_d4d51353b0_o.png" alt="">
-									<span>+</span>
-								</a>
-								<div class="lb-overlay" id="image-6">
-									<a href="#page" class="lb-close">X Sulje</a>
-									<img src="img/view/16101150239_d4d51353b0_o.jpg" alt="" />
-									<div>
-										<h3>Hieronta <span><a href="https://creativecommons.org/licenses/by/2.0/">/Lisenssi/</a></h3>
-										<p><a href="https://www.flickr.com/photos/129941959@N06/16101150239/in/photolist-qwNB1B-eAmtC3-85wh9r-5uAjpj-o9xYia-h4fP5v-9F52Q5-4i4DFF-hDtRbK-8WW2pj-8MBzoo-84TdYt-fHffMb-9h6Woa-9hjgsM-6QHZfm-irKxCa-pDjHp-fpu55b-4i7chA-7k7Cy4-khvM8T-6Bpath-7maZ7N-4i36k4-4i36cR-jM7SCw-6oZw2K-6ofb9v-2Mw43i-dCkPtw-mVK87z-pUGrq-9F52Wb-RpTS-9pnzyh-7opVMQ-6EdPgr-aCTDVv-dgLm6L-9W2c1h-4tExD-qPfH8V-6FeLYF-eAmtAJ-PTf71-9rNgH-71RZnW-hN9FEK-8iuPzx">Kuvan </a><a href="https://www.flickr.com/photos/129941959@N06/">on ottanut: meridican</a></p>
-									</div>
-								</div>
-							</li>
-							-->
-							<!--
-							<li>
-								<a href="#image-7">
-									<img src="img/view/thumbs/massage-389716_1920.png" alt="">
-									<span>+</span>
-								</a>
-								<div class="lb-overlay" id="image-7">
-									<a href="#page" class="lb-close">X Sulje</a>
-									<img src="img/view/massage-389716_1920.jpg" alt="" />
-									<div>
-										<h3>massage <span><a href="http://pixabay.com/fi/service/terms/#download_terms">/Lisenssi/</a></h3>
-										<p><a href="http://creativecommons.org/publicdomain/zero/1.0/">Public Domain (CC0)</a></p>
-									</div>
-								</div>
-							</li>
-							-->
-							<!--
-							<li>
-								<a href="#image-8">
-									<img src="img/view/thumbs/relaxation-684716_1920.png" alt="">
-									<span>+</span>
-								</a>
-								<div class="lb-overlay" id="image-8">
-									<a href="#page" class="lb-close">X Sulje</a>
-									<img src="img/view/relaxation-684716_1920.jpg" alt="" />
-									<div>
-										<h3>relaxation <span><a href="http://pixabay.com/fi/service/terms/#download_terms">/Lisenssi/</a></h3>
-										<p><a href="http://creativecommons.org/publicdomain/zero/1.0/">Public Domain (CC0)</a></p>
-									</div>
-								</div>
-							</li>
-							-->
-							<!--
-							<li>
-								<a href="#image-1">
-									<img src="img/works/thumbs/1.jpg" alt="">
-									<span>+</span>
-								</a>
-								<div class="lb-overlay" id="image-1">
-									<a href="#page" class="lb-close">X</a>
-									<img src="img/works/1.jpg" alt="" />
-									<div>
-										<h3>Sleek <span>/Design/</h3>
-										<p>Lorem ipsum dolor sit amet, ut decore iracundia urbanitas sit.</p>
-									</div>
-								</div>
-							</li>
-							<li>
-								<a href="#image-2">
-									<img src="img/works/thumbs/2.jpg" alt="">
-									<span>+</span>
-								</a>
-								<div class="lb-overlay" id="image-2">
-									<a href="#page" class="lb-close">x Close</a>
-									<img src="img/works/2.jpg" alt="" />
-									<div>
-										<h3>Sleek <span>/Design/</h3>
-										<p>Lorem ipsum dolor sit amet, ut decore iracundia urbanitas sit.</p>
-									</div>
-								</div>
-							</li>
-							<li>
-								<a href="#image-3">
-									<img src="img/works/thumbs/3.jpg" alt="">
-									<span>+</span>
-								</a>
-								<div class="lb-overlay" id="image-3">
-									<a href="#page" class="lb-close">x Close</a>
-									<img src="img/works/3.jpg" alt="" />
-									<div>
-										<h3>Sleek <span>/Design/</h3>
-										<p>Lorem ipsum dolor sit amet, ut decore iracundia urbanitas sit.</p>
-									</div>
-								</div>
-							</li>
-							<li>
-								<a href="#image-4">
-									<img src="img/works/thumbs/4.jpg" alt="">
-									<span>+</span>
-								</a>
-								<div class="lb-overlay" id="image-4">
-									<a href="#page" class="lb-close">x Close</a>
-									<img src="img/works/4.jpg" alt="" />
-									<div>
-										<h3>Sleek <span>/Design/</h3>
-										<p>Lorem ipsum dolor sit amet, ut decore iracundia urbanitas sit.</p>
-									</div>
-								</div>
-							</li>
-							<li>
-								<a href="#image-5">
-									<img src="img/works/thumbs/5.jpg" alt="">
-									<span>+</span>
-								</a>
-								<div class="lb-overlay" id="image-5">
-									<a href="#page" class="lb-close">X</a>
-									<img src="img/works/5.jpg" alt="" />
-									<div>
-										<h3>Sleek <span>/Design/</h3>
-										<p>Lorem ipsum dolor sit amet, ut decore iracundia urbanitas sit.</p>
-									</div>
-								</div>
-							</li>
-							<li>
-								<a href="#image-6">
-									<img src="img/works/thumbs/6.jpg" alt="">
-									<span>+</span>
-								</a>
-								<div class="lb-overlay" id="image-6">
-									<a href="#page" class="lb-close">x Close</a>
-									<img src="img/works/6.jpg" alt="" />
-									<div>
-										<h3>Sleek <span>/Design/</h3>
-										<p>Lorem ipsum dolor sit amet, ut decore iracundia urbanitas sit.</p>
-									</div>
-								</div>
-							</li>
-							<li>
-								<a href="#image-7">
-									<img src="img/works/thumbs/7.jpg" alt="">
-									<span>+</span>
-								</a>
-								<div class="lb-overlay" id="image-7">
-									<a href="#page" class="lb-close">x Close</a>
-									<img src="img/works/7.jpg" alt="" />
-									<div>
-										<h3>Sleek <span>/Design/</h3>
-										<p>Lorem ipsum dolor sit amet, ut decore iracundia urbanitas sit.</p>
-									</div>
-								</div>
-							</li>
-							<li>
-								<a href="#image-8">
-									<img src="img/works/thumbs/8.jpg" alt="">
-									<span>+</span>
-								</a>
-								<div class="lb-overlay" id="image-8">
-									<a href="#page" class="lb-close">x Close</a>
-									<img src="img/works/8.jpg" alt="" />
-									<div>
-										<h3>Sleek <span>/Design/</h3>
-										<p>Lorem ipsum dolor sit amet, ut decore iracundia urbanitas sit.</p>
-									</div>
-								</div>
-							</li>
-							-->
 						</ul>
+						-->
 					</div>
 				</div>
 			</div>
@@ -868,6 +649,7 @@
 		<section id="hinnasto" class="home-section bg-white">
 			<div class="container">
 				<!-- Guide: http://getbootstrap.com/css/ -->
+				<!--
 				<div class="row">
 					<div class="col-md-offset-2 col-md-8">
 						<div class="section-heading">
@@ -875,8 +657,9 @@
 						</div>
 					</div>
 				</div>
+				-->
+				<!--
 				<div class="row">
-					<!-- <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12"> -->
 					<div class="col-xs-12 col-sm-offset-1 col-sm-10 col-md-offset-1 col-md-10 col-lg-offset-1 col-lg-10">
 						<div class="box-team">
 							<div>
@@ -1005,6 +788,7 @@
 						</div>
 					</div>
 				</div>
+				-->
 			</div>
 		</section>
 
